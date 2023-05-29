@@ -1,0 +1,2729 @@
+movieId,title,genres,rate
+1,Toy Story ,Animation|Children's|Comedy,4.1
+2,Jumanji ,Adventure|Children's|Fantasy,3.2
+3,Grumpier Old Men ,Comedy|Romance,3.0
+4,Waiting to Exhale ,Comedy|Drama,2.7
+5,Father of the Bride Part II ,Comedy,3.0
+6,Heat ,Action|Crime|Thriller,3.9
+7,Sabrina ,Comedy|Romance,3.4
+8,Tom and Huck ,Adventure|Children's,3.0
+9,Sudden Death ,Action,2.7
+10,GoldenEye ,Action|Adventure|Thriller,3.5
+13,Balto ,Animation|Children's,3.3
+14,Nixon ,Drama,3.5
+15,Cutthroat Island ,Action|Adventure|Romance,2.5
+16,Casino ,Drama|Thriller,3.8
+17,Sense and Sensibility ,Drama|Romance,4.0
+18,Four Rooms ,Thriller,3.3
+20,Money Train ,Action,2.5
+21,Get Shorty ,Action|Comedy|Drama,3.6
+22,Copycat ,Crime|Drama|Thriller,3.3
+23,Assassins ,Thriller,2.9
+24,Powder ,Drama|Sci-Fi,3.2
+25,Leaving Las Vegas ,Drama|Romance,3.7
+26,Othello ,Drama,3.5
+27,Now and Then ,Drama,2.9
+28,Persuasion ,Romance,4.1
+30,Shanghai Triad (Yao a yao yao dao waipo qiao) ,Drama,3.6
+31,Dangerous Minds ,Drama,3.1
+32,Twelve Monkeys ,Drama|Sci-Fi,3.9
+33,Wings of Courage ,Adventure|Romance,3.0
+34,Babe ,Children's|Comedy|Drama,3.9
+35,Carrington ,Drama|Romance,3.3
+36,Dead Man Walking ,Drama,4.0
+37,Across the Sea of Time ,Documentary,3.5
+38,It Takes Two ,Comedy,2.8
+39,Clueless ,Comedy|Romance,3.6
+41,Richard III ,Drama|War,4.0
+42,Dead Presidents ,Action|Crime|Drama,2.9
+43,Restoration ,Drama,3.4
+44,Mortal Kombat ,Action|Adventure,2.8
+45,To Die For ,Comedy|Drama,3.4
+46,How to Make an American Quilt ,Drama|Romance,3.1
+47,Seven (Se7en) ,Crime|Thriller,4.1
+48,Pocahontas ,Animation|Children's|Musical|Romance,3.0
+49,When Night Is Falling ,Drama|Romance,3.7
+51,Guardian Angel ,Action|Drama|Thriller,0.0
+52,Mighty Aphrodite ,Comedy,3.6
+53,Lamerica ,Drama,4.8
+55,Georgia ,Drama,3.1
+56,Kids of the Round Table ,Adventure|Children's|Fantasy,2.0
+57,Home for the Holidays ,Drama,3.4
+61,Eye for an Eye ,Drama|Thriller,3.0
+62,Mr. Holland's Opus ,Drama,3.7
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood ,Comedy,2.9
+64,Two if by Sea ,Comedy|Romance,2.3
+65,Bio-Dome ,Comedy,2.1
+67,Two Bits ,Drama,3.2
+68,French Twist (Gazon maudit) ,Comedy|Romance,3.5
+69,Friday ,Comedy,3.7
+70,From Dusk Till Dawn ,Action|Comedy|Crime|Horror|Thriller,3.2
+71,Fair Game ,Action,2.1
+72,Kicking and Screaming ,Comedy|Drama,3.6
+74,Bed of Roses ,Drama|Romance,3.0
+75,Big Bully ,Comedy|Drama,1.9
+76,Screamers ,Sci-Fi|Thriller,2.9
+77,Nico Icon ,Documentary,3.8
+81,Things to Do in Denver when You're Dead ,Crime|Drama|Romance,3.2
+82,Antonia's Line (Antonia) ,Drama,3.9
+83,Once Upon a Time... When We Were Colored ,Drama,3.7
+84,Last Summer in the Hamptons ,Comedy|Drama,3.1
+85,Angels and Insects ,Drama|Romance,3.4
+86,White Squall ,Adventure|Drama,3.4
+87,Dunston Checks In ,Children's|Comedy,2.2
+88,Black Sheep ,Comedy,2.9
+89,Nick of Time ,Action|Thriller,3.1
+92,Mary Reilly ,Drama|Thriller,2.3
+93,Vampire in Brooklyn ,Comedy|Romance,2.2
+94,Beautiful Girls ,Drama,3.7
+95,Broken Arrow ,Action|Thriller,2.9
+96,In the Bleak Midwinter ,Comedy,3.9
+98,Shopping ,Action|Thriller,2.0
+100,City Hall ,Drama|Thriller,3.1
+101,Bottle Rocket ,Comedy,3.9
+102,Mr. Wrong ,Comedy,1.8
+103,Unforgettable ,Thriller,3.2
+104,Happy Gilmore ,Comedy,3.5
+106,Nobody Loves Me (Keiner liebt mich) ,Comedy|Drama,3.6
+107,Muppet Treasure Island ,Adventure|Children's|Comedy|Musical,3.1
+108,Catwalk ,Documentary,2.9
+109,Headless Body in Topless Bar ,Comedy,0.0
+110,Braveheart ,Action|Drama|War,4.2
+111,Taxi Driver ,Drama|Thriller,4.2
+112,Rumble in the Bronx ,Action|Adventure|Crime,3.4
+113,Before and After ,Drama|Mystery,3.0
+114,Margaret's Museum ,Drama,3.1
+115,Happiness Is in the Field ,Comedy,0.0
+116,Anne Frank Remembered ,Documentary,4.1
+118,If Lucy Fell ,Comedy|Romance,3.1
+120,Race the Sun ,Drama,2.7
+122,Boomerang ,Comedy|Romance,2.8
+123,Chungking Express ,Drama|Mystery|Romance,3.9
+125,Flirting With Disaster ,Comedy,3.8
+128,Jupiter's Wife ,Documentary,4.3
+129,Pie in the Sky ,Comedy|Romance,3.3
+130,Angela ,Drama,4.0
+131,Frankie Starlight ,Drama|Romance,3.1
+132,Jade ,Thriller,2.5
+133,Nueba Yol ,Comedy|Drama,1.0
+134,Sonic Outlaws ,Documentary,4.0
+135,Down Periscope ,Comedy,2.8
+136,From the Journals of Jean Seberg ,Documentary,3.2
+137,Man of the Year ,Documentary,3.0
+139,Target ,Action|Drama,4.0
+140,Up Close and Personal ,Drama|Romance,3.2
+142,Shadows (Cienie) ,Drama,1.0
+143,Gospa ,Drama,0.0
+145,Bad Boys ,Action,3.3
+149,Amateur ,Crime|Drama|Thriller,3.8
+150,Apollo 13 ,Drama,4.1
+151,Rob Roy ,Drama|Romance|War,3.6
+153,Batman Forever ,Action|Adventure|Comedy|Crime,2.6
+154,Belle de jour ,Drama,3.7
+155,Beyond Rangoon ,Drama|War,3.4
+156,Blue in the Face ,Comedy,3.6
+157,Canadian Bacon ,Comedy|War,2.7
+158,Casper ,Adventure|Children's,3.0
+159,Clockers ,Drama,3.3
+160,Congo ,Action|Adventure|Mystery|Sci-Fi,2.2
+161,Crimson Tide ,Drama|Thriller|War,3.7
+162,Crumb ,Documentary,4.1
+163,Desperado ,Action|Romance|Thriller,3.5
+164,Devil in a Blue Dress ,Crime|Film-Noir|Mystery|Thriller,3.6
+167,Feast of July ,Drama,3.6
+168,First Knight ,Action|Adventure|Drama|Romance,3.0
+169,Free Willy 2, Adventure,2.0
+170,Hackers ,Action|Crime|Thriller,3.1
+171,Jeffrey ,Comedy,3.6
+172,Johnny Mnemonic ,Action|Sci-Fi|Thriller,2.6
+173,Judge Dredd ,Action|Adventure|Sci-Fi,2.3
+174,Jury Duty ,Comedy,2.3
+175,Kids ,Drama,3.5
+176,Living in Oblivion ,Comedy,3.9
+177,Lord of Illusions ,Horror,2.7
+178,Love & Human Remains ,Comedy,3.5
+179,Mad Love ,Drama|Romance,2.2
+180,Mallrats ,Comedy,3.5
+182,Moonlight and Valentino ,Drama|Romance,3.1
+183,Mute Witness ,Thriller,3.5
+184,Nadja ,Drama,3.3
+186,Nine Months ,Comedy,2.8
+187,Party Girl ,Comedy,3.2
+189,Reckless ,Comedy,3.4
+190,Safe ,Thriller,3.8
+193,Showgirls ,Drama,2.1
+194,Smoke ,Drama,3.8
+195,Something to Talk About ,Comedy|Drama|Romance,2.8
+196,Species ,Horror|Sci-Fi,2.8
+198,Strange Days ,Action|Crime|Sci-Fi,3.3
+201,Three Wishes ,Drama,2.6
+202,Total Eclipse ,Drama|Romance,2.5
+205,Unstrung Heroes ,Comedy|Drama,3.6
+206,Unzipped ,Documentary,3.7
+208,Waterworld ,Action|Adventure,2.6
+209,White Man's Burden ,Drama,2.5
+210,Wild Bill ,Adventure|Action,3.1
+212,Bushwhacked ,Comedy,1.9
+213,Burnt By the Sun (Utomlyonnye solntsem) ,Drama,4.1
+214,Before the Rain (Pred dozhdot) ,Drama,4.2
+215,Before Sunrise ,Drama|Romance,3.8
+216,Billy Madison ,Comedy,3.2
+218,Boys on the Side ,Comedy|Drama,3.1
+220,Castle Freak ,Horror,1.8
+222,Circle of Friends ,Drama|Romance,3.5
+223,Clerks ,Comedy,3.9
+224,Don Juan DeMarco ,Comedy|Drama|Romance,3.4
+225,Disclosure ,Drama|Thriller,3.2
+226,Dream Man ,Thriller,2.0
+227,Drop Zone ,Action,2.7
+228,Destiny Turns on the Radio ,Comedy,2.2
+229,Death and the Maiden ,Drama|Thriller,3.5
+230,Dolores Claiborne ,Drama|Thriller,3.5
+231,Dumb & Dumber ,Comedy,3.2
+232,Eat Drink Man Woman ,Comedy|Drama,4.1
+233,Exotica ,Drama,3.6
+234,Exit to Eden ,Comedy,2.2
+235,Ed Wood ,Comedy|Drama,3.7
+236,French Kiss ,Comedy|Romance,3.3
+237,Forget Paris ,Comedy|Romance,3.0
+238,Far From Home,Adventure,2.8
+240,Hideaway ,Thriller,2.7
+241,Fluke ,Children's|Drama,3.3
+243,Gordy ,Comedy,2.1
+246,Hoop Dreams ,Documentary,4.2
+247,Heavenly Creatures ,Drama|Fantasy|Romance|Thriller,3.9
+248,Houseguest ,Comedy,2.9
+249,Immortal Beloved ,Drama|Romance,3.8
+250,Heavyweights ,Children's|Comedy,2.6
+252,I.Q. ,Comedy|Romance,3.3
+253,Interview with the Vampire ,Drama|Horror,3.5
+254,Jefferson in Paris ,Drama,3.1
+256,Junior ,Comedy|Sci-Fi,2.7
+257,Just Cause ,Mystery|Thriller,3.2
+259,Kiss of Death ,Crime|Drama|Thriller,2.8
+261,Little Women ,Drama,3.6
+263,Ladybird Ladybird ,Drama,3.9
+265,Like Water for Chocolate (Como agua para chocolate) ,Drama|Romance,3.9
+266,Legends of the Fall ,Drama|Romance|War|Western,3.4
+267,Major Payne ,Comedy,2.7
+268,Little Odessa ,Drama,3.4
+269,My Crazy Life (Mi vida loca) ,Drama,3.5
+270,Love Affair ,Drama|Romance,3.0
+271,Losing Isaiah ,Drama,3.1
+273,Mary Shelley's Frankenstein ,Drama|Horror,2.9
+274,Man of the House ,Comedy,2.4
+275,Mixed Nuts ,Comedy,2.5
+276,Milk Money ,Comedy|Romance,2.7
+277,Miracle on 34th Street ,Drama,3.2
+278,Miami Rhapsody ,Comedy,2.8
+279,My Family ,Drama,3.7
+280,Murder in the First ,Drama|Thriller,3.6
+281,Nobody's Fool ,Drama,3.6
+282,Nell ,Drama,3.2
+283,New Jersey Drive ,Crime|Drama,3.0
+284,New York Cop ,Action|Crime,0.0
+285,Beyond Bedlam ,Drama|Horror,0.0
+287,Nina Takes a Lover ,Comedy|Romance,2.9
+288,Natural Born Killers ,Action|Thriller,3.1
+289,Only You ,Comedy|Romance,3.3
+290,Once Were Warriors ,Crime|Drama,3.9
+291,Poison Ivy II ,Thriller,2.2
+292,Outbreak ,Action|Drama|Thriller,3.3
+296,Pulp Fiction ,Crime|Drama,4.3
+297,Panther ,Drama,3.1
+298,Pushing Hands ,Comedy,3.9
+299,Priest ,Drama,3.7
+300,Quiz Show ,Drama,3.8
+301,Picture Bride ,Drama|Romance,3.3
+302,Queen Margot (La Reine Margot) ,Drama|Romance,3.8
+304,Roommates ,Comedy|Drama,3.1
+305,Ready to Wear (Pret-A-Porter) ,Comedy,2.5
+310,Rent-a-Kid ,Comedy,2.7
+311,Relative Fear ,Horror|Thriller,3.0
+312,Stuart Saves His Family ,Comedy,2.4
+316,Stargate ,Action|Adventure|Sci-Fi,3.5
+319,Shallow Grave ,Thriller,3.9
+320,Suture ,Film-Noir|Thriller,3.4
+321,Strawberry and Chocolate (Fresa y chocolate) ,Drama,3.8
+322,Swimming with Sharks ,Comedy|Drama,3.7
+325,National Lampoon's Senior Trip ,Comedy,2.4
+326,To Live (Huozhe) ,Drama,4.3
+327,Tank Girl ,Action|Comedy|Musical|Sci-Fi,2.6
+330,Tales from the Hood ,Comedy|Horror,2.7
+331,Tom & Viv ,Drama,3.1
+332,Village of the Damned ,Horror|Sci-Fi,2.5
+333,Tommy Boy ,Comedy,3.5
+334,Vanya on 42nd Street ,Drama,3.9
+337,What's Eating Gilbert Grape ,Drama,3.8
+338,Virtuosity ,Sci-Fi|Thriller,2.9
+339,While You Were Sleeping ,Comedy|Romance,3.5
+341,Double Happiness ,Drama,3.8
+342,Muriel's Wedding ,Comedy|Romance,3.7
+346,Backbeat ,Drama|Musical,3.5
+347,Bitter Moon ,Drama,3.2
+348,Bullets Over Broadway ,Comedy,3.7
+349,Clear and Present Danger ,Action|Adventure|Thriller,3.7
+352,Crooklyn ,Comedy,3.1
+354,Cobb ,Drama,3.2
+356,Forrest Gump ,Comedy|Romance|War,4.1
+357,Four Weddings and a Funeral ,Comedy|Romance,3.7
+358,Higher Learning ,Drama,3.2
+359,I Like It Like That ,Comedy|Drama|Romance,3.2
+360,I Love Trouble ,Action|Comedy,2.5
+361,It Could Happen to You ,Drama|Romance,3.4
+365,Little Buddha ,Drama,3.2
+366,Wes Craven's New Nightmare ,Horror,2.8
+368,Maverick ,Action|Comedy|Western,3.5
+369,Mrs. Parker and the Vicious Circle ,Drama,3.3
+372,Reality Bites ,Comedy|Drama,3.2
+373,Red Rock West ,Thriller,3.9
+374,Richie Rich ,Children's|Comedy,2.1
+375,Safe Passage ,Drama,3.3
+377,Speed ,Action|Romance|Thriller,3.6
+378,Speechless ,Comedy|Romance,2.9
+379,Timecop ,Action|Sci-Fi,2.9
+380,True Lies ,Action|Adventure|Comedy|Romance,3.6
+381,When a Man Loves a Woman ,Drama,3.3
+382,Wolf ,Drama|Horror,2.9
+383,Wyatt Earp ,Western,3.3
+384,Bad Company ,Action,2.9
+386,S.F.W. ,Drama,2.6
+388,Boys Life ,Drama,3.6
+390,Faster Pussycat! Kill! Kill! ,Action|Comedy|Drama,3.5
+391,Jason's Lyric ,Crime|Drama,3.3
+393,Street Fighter ,Action,1.9
+394,Coldblooded ,Action,3.7
+395,Desert Winds ,Drama,0.0
+396,Fall Time ,Drama,4.0
+398,Frank and Ollie ,Documentary,4.0
+399,Girl in the Cadillac ,Drama,0.0
+400,Homage ,Drama,0.0
+401,Mirage ,Action|Thriller,3.0
+402,Open Season ,Comedy,3.0
+403,Two Crimes ,Comedy|Crime|Drama,0.0
+406,Federal Hill ,Drama,3.6
+407,In the Mouth of Madness ,Horror|Thriller,2.9
+408,8 Seconds ,Drama,3.3
+409,Above the Rim ,Drama,3.0
+410,Addams Family Values ,Comedy,2.9
+411,You So Crazy ,Comedy,2.6
+413,Airheads ,Comedy,2.5
+415,Another Stakeout ,Comedy|Thriller,2.5
+416,Bad Girls ,Western,2.4
+417,Barcelona ,Comedy|Romance,3.5
+418,Being Human ,Drama,2.5
+420,Beverly Hills Cop III ,Action|Comedy,2.5
+421,Black Beauty ,Adventure|Children's,3.4
+422,Blink ,Thriller,3.1
+423,Blown Away ,Action|Thriller,3.1
+424,Blue Chips ,Drama,2.6
+425,Blue Sky ,Drama|Romance,3.6
+426,Body Snatchers ,Horror|Sci-Fi|Thriller,3.1
+427,Boxing Helena ,Mystery|Romance|Thriller,2.4
+429,Cabin Boy ,Comedy,2.4
+430,Calendar Girl ,Drama,2.4
+431,Carlito's Way ,Crime|Drama,3.7
+433,Clean Slate ,Comedy,2.8
+434,Cliffhanger ,Action|Adventure|Crime,3.1
+435,Coneheads ,Comedy|Sci-Fi,2.6
+436,Color of Night ,Drama|Thriller,2.7
+437,Cops and Robbersons ,Comedy,2.0
+439,Dangerous Game ,Drama,4.5
+440,Dave ,Comedy|Romance,3.8
+441,Dazed and Confused ,Comedy,3.7
+442,Demolition Man ,Action|Sci-Fi,3.0
+444,Even Cowgirls Get the Blues ,Comedy|Romance,2.3
+445,Fatal Instinct ,Comedy,2.6
+446,Farewell My Concubine ,Drama|Romance,4.1
+448,Fearless ,Drama,3.6
+449,Fear of a Black Hat ,Comedy,3.7
+450,With Honors ,Comedy|Drama,3.3
+451,Flesh and Bone ,Drama|Mystery|Romance,3.2
+452,Widows' Peak ,Drama,3.3
+453,For Love or Money ,Comedy,3.2
+455,Free Willy ,Adventure|Children's|Drama,2.6
+456,Fresh ,Drama,4.0
+460,Getting Even with Dad ,Comedy,2.3
+461,Go Fish ,Drama|Romance,3.3
+463,Guilty as Sin ,Crime|Drama|Thriller,2.7
+464,Hard Target ,Action|Adventure|Crime|Thriller,2.8
+465,Heaven & Earth ,Action|Drama|War,3.3
+466,Hot Shots! Part Deux ,Action|Comedy|War,2.8
+467,Live Nude Girls ,Comedy,3.2
+470,House Party 3 ,Comedy,1.7
+472,I'll Do Anything ,Comedy|Drama,2.7
+473,In the Army Now ,Comedy|War,2.2
+474,In the Line of Fire ,Action|Thriller,3.8
+475,In the Name of the Father ,Drama,3.9
+477,What's Love Got to Do with It? ,Drama,3.5
+478,Jimmy Hollywood ,Comedy,2.5
+479,Judgment Night ,Action,2.8
+480,Jurassic Park ,Action|Adventure|Sci-Fi,3.8
+481,Kalifornia ,Drama|Thriller,3.4
+482,Killing Zoe ,Thriller,3.5
+483,King of the Hill ,Drama,3.7
+484,Lassie ,Adventure|Children's,2.7
+485,Last Action Hero ,Action|Comedy,2.5
+486,Life with Mikey ,Comedy,2.8
+487,Lightning Jack ,Comedy|Western,2.6
+488,M. Butterfly ,Drama,3.4
+489,Made in America ,Comedy,2.5
+490,Malice ,Thriller,3.3
+492,Manhattan Murder Mystery ,Comedy|Mystery,3.7
+493,Menace II Society ,Action|Crime|Drama,3.6
+494,Executive Decision ,Action|Thriller,3.3
+495,In the Realm of the Senses (Ai no corrida) ,Drama,3.4
+496,What Happened Was... ,Comedy|Drama|Romance,3.2
+497,Much Ado About Nothing ,Comedy|Romance,4.0
+498,Mr. Jones ,Drama|Romance,2.7
+499,Mr. Wonderful ,Comedy|Romance,2.8
+500,Mrs. Doubtfire ,Comedy,3.4
+501,Naked ,Drama,3.6
+504,No Escape ,Action|Sci-Fi,3.0
+505,North ,Comedy,2.5
+506,Orlando ,Drama,3.5
+508,Philadelphia ,Drama,3.9
+510,Poetic Justice ,Drama,2.4
+512,Robert A. Heinlein's The Puppet Masters ,Horror|Sci-Fi,2.9
+513,Radioland Murders ,Comedy|Mystery|Romance,3.1
+516,Renaissance Man ,Comedy|Drama|War,2.9
+517,Rising Sun ,Action|Drama|Mystery,3.2
+519,Robocop 3 ,Sci-Fi|Thriller,1.9
+521,Romeo Is Bleeding ,Crime|Thriller,3.4
+522,Romper Stomper ,Action|Drama,3.6
+523,Ruby in Paradise ,Drama,3.7
+524,Rudy ,Drama,3.6
+527,Schindler's List ,Drama|War,4.5
+529,Searching for Bobby Fischer ,Drama,4.0
+530,Second Best ,Drama,3.5
+532,Serial Mom ,Comedy|Crime|Horror,3.0
+534,Shadowlands ,Drama|Romance,3.8
+535,Short Cuts ,Drama,3.8
+537,Sirens ,Comedy|Drama,3.1
+538,Six Degrees of Separation ,Drama,3.8
+539,Sleepless in Seattle ,Comedy|Romance,3.8
+540,Sliver ,Thriller,2.2
+541,Blade Runner ,Film-Noir|Sci-Fi,4.3
+542,Son in Law ,Comedy,2.7
+543,So I Married an Axe Murderer ,Comedy|Romance|Thriller,3.4
+544,Striking Distance ,Action,2.6
+545,Harlem ,Drama,2.0
+546,Super Mario Bros. ,Action|Adventure|Children's|Sci-Fi,1.9
+547,Surviving the Game ,Action|Adventure|Thriller,2.9
+548,Terminal Velocity ,Action,2.5
+549,Thirty-Two Short Films About Glenn Gould ,Documentary,3.8
+550,Threesome ,Comedy|Romance,3.0
+553,Tombstone ,Western,3.9
+554,Trial by Jury ,Thriller,2.6
+555,True Romance ,Action|Crime|Romance,3.9
+557,Mamma Roma ,Drama,4.5
+561,Killer (Bulletproof Heart) ,Thriller,3.6
+562,Welcome to the Dollhouse ,Comedy|Drama,3.8
+563,Germinal ,Drama,3.2
+564,Chasers ,Comedy,2.3
+565,Cronos ,Horror,3.1
+566,Naked in New York ,Comedy|Romance,2.9
+567,Kika ,Drama,3.6
+568,Bhaji on the Beach ,Comedy|Drama,3.9
+569,Little Big League ,Children's|Comedy,2.9
+572,Foreign Student ,Drama,3.0
+574,Spanking the Monkey ,Comedy|Drama,3.4
+576,Fausto ,Comedy,3.0
+577,Andre ,Adventure|Children's,3.0
+580,Princess Caraboo ,Drama,3.2
+582,Metisse (Café au Lait) ,Comedy,3.0
+583,Dear Diary (Caro Diario) ,Comedy|Drama,3.7
+584,I Don't Want to Talk About It (De eso no se habla) ,Drama,4.0
+586,Home Alone ,Children's|Comedy,3.1
+587,Ghost ,Comedy|Romance|Thriller,3.5
+588,Aladdin ,Animation|Children's|Comedy|Musical,3.8
+590,Dances with Wolves ,Adventure|Drama|Western,3.9
+591,Tough and Deadly ,Action|Drama|Thriller,2.0
+592,Batman ,Action|Adventure|Crime|Drama,3.6
+594,Snow White and the Seven Dwarfs ,Animation|Children's|Musical,3.8
+595,Beauty and the Beast ,Animation|Children's|Musical,3.9
+596,Pinocchio ,Animation|Children's,3.8
+597,Pretty Woman ,Comedy|Romance,3.6
+598,Window to Paris ,Comedy,4.2
+600,Love and a .45 ,Thriller,3.0
+604,Criminals ,Documentary,0.0
+605,One Fine Day ,Drama|Romance,3.3
+607,Century ,Drama,2.0
+608,Fargo ,Crime|Drama|Thriller,4.3
+610,Heavy Metal ,Action|Adventure|Animation|Horror|Sci-Fi,3.5
+613,Jane Eyre ,Drama|Romance,3.6
+614,Loaded ,Drama|Thriller,2.7
+615,Bread and Chocolate (Pane e cioccolata) ,Drama,4.0
+618,Two Much ,Comedy|Romance,2.1
+619,Ed ,Comedy,2.6
+620,Scream of Stone (Schrei aus Stein) ,Drama,0.0
+621,My Favorite Season ,Drama,3.7
+624,Condition Red ,Action|Drama|Thriller,4.0
+625,Asfour Stah ,Drama,0.0
+628,Primal Fear ,Drama|Thriller,3.9
+629,Rude ,Drama,0.0
+630,Carried Away ,Drama|Romance,2.9
+631,All Dogs Go to Heaven 2 ,Animation|Children's|Musical,2.1
+632,Land and Freedom (Tierra y libertad) ,War,4.0
+633,Denise Calls Up ,Comedy,3.6
+634,Theodore Rex ,Comedy,1.7
+636,Frisk ,Drama,0.0
+637,Sgt. Bilko ,Comedy,2.5
+638,Jack and Sarah ,Romance,3.2
+639,Girl 6 ,Comedy,2.6
+640,Diabolique ,Drama|Thriller,2.7
+642,Roula ,Drama,2.0
+643,Peanuts - Die Bank zahlt alles ,Comedy,2.0
+644,Happy Weekend ,Comedy,2.0
+645,Nelly & Monsieur Arnaud ,Drama,3.6
+647,Courage Under Fire ,Drama|War,3.6
+649,Cold Fever (Á köldum klaka) ,Comedy|Drama,4.2
+650,Moll Flanders ,Drama,3.5
+653,Dragonheart ,Action|Adventure|Fantasy,3.2
+654,Und keiner weint mir nach ,Drama|Romance,0.0
+655,Mutters Courage ,Comedy,1.0
+656,Eddie ,Comedy,2.6
+657,Yankee Zulu ,Comedy|Drama,3.0
+658,Billy's Holiday ,Drama,3.0
+659,Purple Noon ,Crime|Thriller,3.7
+660,August ,Drama,1.5
+661,James and the Giant Peach ,Animation|Children's|Musical,3.5
+662,Fear ,Thriller,3.0
+664,Faithful ,Comedy,3.0
+665,Underground ,War,3.7
+666,All Things Fair ,Drama,3.3
+667,Bloodsport 2 ,Action,2.0
+668,Pather Panchali ,Drama,4.4
+669,Aparajito ,Drama,4.2
+672,Tarantella ,Drama,2.0
+673,Space Jam ,Adventure|Animation|Children's|Comedy|Fantasy,2.6
+674,Barbarella ,Adventure|Sci-Fi,3.0
+675,Hostile Intentions ,Action|Drama|Thriller,0.0
+676,They Bite ,Drama,0.0
+678,Some Folks Call It a Sling Blade ,Drama|Thriller,4.2
+680,Alphaville ,Sci-Fi,3.4
+681,Clean Slate (Coup de Torchon) ,Crime,3.9
+684,Windows ,Drama,1.0
+685,It's My Party ,Drama,3.3
+687,Country Life ,Drama|Romance,3.0
+688,Operation Dumbo Drop ,Action|Adventure|Comedy|War,2.3
+691,Mrs. Winterbourne ,Comedy|Romance,3.1
+692,Solo ,Action|Sci-Fi|Thriller,2.1
+693,Under the Domin Tree (Etz Hadomim Tafus) ,Drama,0.0
+695,True Crime ,Mystery|Thriller,3.2
+696,Butterfly Kiss ,Thriller,3.2
+697,Feeling Minnesota ,Drama|Romance,2.6
+698,Delta of Venus ,Drama,2.2
+699,To Cross the Rubicon ,Drama,0.0
+700,Angus ,Comedy,3.3
+701,Daens ,Drama,4.0
+702,Faces ,Drama,3.7
+703,Boys ,Drama,1.6
+705,Cosi ,Comedy,3.8
+706,Sunset Park ,Drama,2.5
+707,Mulholland Falls ,Crime|Film-Noir|Thriller,3.1
+709,Oliver & Company ,Animation|Children's,3.0
+710,Celtic Pride ,Comedy,2.3
+711,Flipper ,Adventure|Children's,2.5
+712,Captives ,Drama,3.5
+713,Of Love and Shadows ,Drama,0.0
+714,Dead Man ,Western,3.9
+716,Switchblade Sisters ,Crime,2.7
+717,Mouth to Mouth (Boca a boca) ,Comedy,4.0
+719,Multiplicity ,Comedy,2.9
+720,Wallace & Gromit, Animation,4.4
+721,Halfmoon (Paul Bowles - Halbmond) ,Drama,0.0
+723,Two Friends ,Drama,0.0
+726,Last Dance ,Drama,3.0
+727,War Stories ,Documentary,0.0
+728,Cold Comfort Farm ,Comedy,3.8
+731,Heaven's Prisoners ,Mystery|Thriller,2.9
+732,Original Gangstas ,Crime,2.8
+734,Getting Away With Murder ,Comedy,3.0
+735,Cemetery Man (Dellamorte Dellamore) ,Comedy|Horror,3.4
+736,Twister ,Action|Adventure|Romance|Thriller,3.2
+737,Barb Wire ,Action|Sci-Fi,2.0
+739,Honigmond ,Comedy,0.0
+741,Ghost in the Shell (Kokaku kidotai) ,Animation|Sci-Fi,4.1
+742,Thinner ,Horror|Thriller,2.5
+743,Spy Hard ,Comedy,2.6
+744,Brothers in Trouble ,Drama,2.0
+746,Force of Evil ,Film-Noir,4.0
+751,Careful ,Comedy,3.5
+752,Vermont Is For Lovers ,Comedy|Romance,0.0
+755,Kim ,Children's|Drama,3.8
+757,Ashes of Time ,Drama,3.8
+760,Stalingrad ,War,3.5
+762,Striptease ,Comedy|Crime,2.2
+764,Heavy ,Drama|Romance,3.3
+765,Jack ,Comedy|Drama,2.6
+766,I Shot Andy Warhol ,Drama,3.6
+768,Someone Else's America ,Drama,0.0
+770,Costa Brava ,Drama,0.0
+772,Quartier Mozart ,Comedy,0.0
+773,Touki Bouki (Journey of the Hyena) ,Drama,0.0
+774,Wend Kuuni (God's Gift) ,Drama,4.0
+775,Spirits of the Dead (Tre Passi nel Delirio) ,Horror,3.2
+776,Babyfever ,Comedy|Drama,3.0
+777,Pharaoh's Army ,War,0.0
+778,Trainspotting ,Drama,4.0
+779,'Til There Was You ,Drama|Romance,2.7
+780,Independence Day (ID4) ,Action|Sci-Fi|War,3.5
+781,Stealing Beauty ,Drama,3.4
+785,Kingpin ,Comedy,3.5
+786,Eraser ,Action|Thriller,3.1
+790,An Unforgettable Summer ,Drama,3.0
+793,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) ,Drama,2.6
+794,Midnight Dancers (Sibak) ,Comedy|Drama,0.0
+795,Somebody to Love ,Drama,0.0
+798,Daylight ,Action|Adventure|Thriller,2.7
+800,Lone Star ,Drama|Mystery,4.1
+801,Harriet the Spy ,Children's|Comedy,3.1
+802,Phenomenon ,Drama|Romance,3.5
+803,Walking and Talking ,Romance,3.7
+804,She's the One ,Comedy|Romance,3.0
+806,American Buffalo ,Drama,3.2
+808,Alaska ,Adventure|Children's,3.4
+809,Fled ,Action|Adventure,2.6
+810,Kazaam ,Children's|Comedy|Fantasy,1.5
+812,Magic Hunter ,Drama,0.0
+813,Larger Than Life ,Comedy,2.5
+815,Power 98 ,Action|Mystery|Thriller,2.0
+816,Two Deaths ,Drama,0.0
+819,Stefano Quantestorie ,Comedy|Drama,0.0
+822,Hedd Wyn ,Drama,0.0
+824,Kaspar Hauser ,Drama,3.9
+825,Echte Kerle ,Comedy|Romance,0.0
+826,Diebinnen ,Drama,1.0
+829,Joe's Apartment ,Comedy|Musical,2.3
+831,Stonewall ,Drama,3.9
+832,Ransom ,Drama|Thriller,3.5
+833,High School High ,Comedy,2.2
+834,Phat Beach ,Comedy,2.0
+835,Foxfire ,Drama,3.1
+836,Chain Reaction ,Action|Adventure|Thriller,2.7
+837,Matilda ,Children's|Comedy,3.5
+838,Emma ,Comedy|Drama|Romance,3.9
+840,House Arrest ,Comedy,2.6
+841,Eyes Without a Face ,Horror,3.4
+843,Lotto Land ,Drama,1.0
+846,Flirt ,Drama,3.7
+849,Escape from L.A. ,Action|Adventure|Sci-Fi|Thriller,2.5
+850,Cyclo ,Crime|Drama,3.7
+851,Basquiat ,Drama,3.5
+852,Tin Cup ,Comedy|Romance,3.2
+853,Dingo ,Drama,4.0
+855,Every Other Weekend ,Drama,0.0
+856,Mille bolle blu ,Comedy,0.0
+857,Crows and Sparrows ,Drama,0.0
+861,Supercop ,Action|Thriller,3.5
+862,Manny & Lo ,Drama,3.6
+863,Celestial Clockwork ,Comedy,3.5
+865,Small Faces ,Drama,2.0
+866,Bound ,Crime|Drama|Romance|Thriller,3.8
+867,Carpool ,Comedy|Crime,2.2
+868,Death in Brunswick ,Comedy,3.0
+869,Kansas City ,Crime,3.1
+870,Gone Fishin' ,Comedy,2.2
+871,Lover's Knot ,Comedy,0.0
+872,Aiqing wansui ,Drama,3.0
+873,Shadow of Angels (Schatten der Engel) ,Drama,0.0
+875,Nothing to Lose ,Drama,3.4
+877,Girls Town ,Drama,3.3
+878,Bye-Bye ,Drama,4.0
+881,First Kid ,Children's|Comedy,2.6
+884,Sweet Nothing ,Drama,3.0
+885,Bogus ,Children's|Drama|Fantasy,2.6
+886,Bulletproof ,Action,2.9
+887,Talk of Angels ,Drama,2.5
+889,1-900 ,Romance,2.5
+890,Baton Rouge ,Thriller,0.0
+892,Twelfth Night ,Comedy|Drama|Romance,3.9
+893,Mother Night ,Drama,3.7
+894,Liebelei ,Romance,0.0
+895,Venice/Venice ,Drama,1.0
+896,Wild Reeds ,Drama,3.4
+897,For Whom the Bell Tolls ,Adventure|War,3.8
+899,Singin' in the Rain ,Musical|Romance,4.3
+901,Funny Face ,Comedy|Musical,3.6
+902,Breakfast at Tiffany's ,Drama|Romance,3.9
+903,Vertigo ,Mystery|Thriller,4.3
+904,Rear Window ,Mystery|Thriller,4.5
+905,It Happened One Night ,Comedy,4.3
+906,Gaslight ,Mystery|Thriller,4.1
+908,North by Northwest ,Drama|Thriller,4.4
+910,Some Like It Hot ,Comedy|Crime,4.3
+911,Charade ,Comedy|Mystery|Romance|Thriller,4.2
+912,Casablanca ,Drama|Romance|War,4.4
+914,My Fair Lady ,Musical|Romance,4.2
+915,Sabrina ,Comedy|Romance,4.0
+916,Roman Holiday ,Comedy|Romance,4.2
+918,Meet Me in St. Louis ,Musical,3.8
+920,Gone with the Wind ,Drama|Romance|War,4.0
+921,My Favorite Year ,Comedy,3.9
+922,Sunset Blvd. (a.k.a. Sunset Boulevard) ,Film-Noir,4.5
+923,Citizen Kane ,Drama,4.4
+925,Golden Earrings ,Adventure|Romance,3.2
+926,All About Eve ,Drama,4.3
+928,Rebecca ,Romance|Thriller,4.2
+929,Foreign Correspondent ,Thriller,3.8
+930,Notorious ,Film-Noir|Romance|Thriller,4.3
+931,Spellbound ,Mystery|Romance|Thriller,3.9
+933,To Catch a Thief ,Comedy|Romance|Thriller,4.1
+934,Father of the Bride ,Comedy,3.7
+936,Ninotchka ,Comedy|Romance,4.1
+937,Love in the Afternoon ,Comedy|Romance,3.8
+938,Gigi ,Musical,3.6
+942,Laura ,Crime|Film-Noir|Mystery,4.2
+944,Lost Horizon ,Drama,3.8
+945,Top Hat ,Comedy|Musical|Romance,4.1
+946,To Be or Not to Be ,Comedy|Drama|War,3.9
+947,My Man Godfrey ,Comedy,4.1
+948,Giant ,Drama,3.8
+949,East of Eden ,Drama,4.0
+951,His Girl Friday ,Comedy,4.2
+952,Around the World in 80 Days ,Adventure|Comedy,3.6
+953,It's a Wonderful Life ,Drama,4.3
+954,Mr. Smith Goes to Washington ,Drama,4.2
+955,Bringing Up Baby ,Comedy,4.2
+956,Penny Serenade ,Drama|Romance,3.5
+958,Lady of Burlesque ,Comedy|Mystery,3.4
+959,Of Human Bondage ,Drama,3.7
+960,Angel on My Shoulder ,Crime|Drama,3.5
+961,Little Lord Fauntleroy ,Drama,3.5
+962,They Made Me a Criminal ,Crime|Drama,3.5
+964,Angel and the Badman ,Western,3.4
+968,Night of the Living Dead ,Horror|Sci-Fi,3.7
+970,Beat the Devil ,Comedy|Drama,3.4
+971,Cat on a Hot Tin Roof ,Drama,4.0
+973,Meet John Doe ,Drama,3.9
+974,Algiers ,Drama|Romance,3.8
+975,Something to Sing About ,Comedy|Musical,1.5
+979,Nothing Personal ,Drama|War,0.0
+980,In the Line of Duty 2 ,Action,2.8
+981,Dangerous Ground ,Drama,2.8
+982,Picnic ,Drama,3.7
+983,Madagascar Skin ,Romance,0.0
+985,Small Wonders ,Documentary,3.8
+986,Fly Away Home ,Adventure|Children's,3.6
+987,Bliss ,Drama|Romance,2.9
+988,Grace of My Heart ,Comedy|Drama,3.4
+989,Schlafes Bruder (Brother of Sleep) ,Drama,5.0
+990,Maximum Risk ,Action|Adventure|Thriller,2.6
+991,Michael Collins ,Drama|War,3.5
+993,Infinity ,Drama,3.1
+994,Big Night ,Drama,4.1
+996,Last Man Standing ,Action|Drama|Western,2.9
+997,Caught ,Drama|Thriller,3.4
+998,Set It Off ,Action|Crime,3.0
+999,2 Days in the Valley ,Crime,3.3
+1000,Curdled ,Crime,3.0
+1002,Ed's Next Move ,Comedy,4.2
+1003,Extreme Measures ,Drama|Thriller,2.9
+1009,Escape to Witch Mountain ,Adventure|Children's|Fantasy,3.2
+1011,Herbie Rides Again ,Adventure|Children's|Comedy,2.7
+1012,Old Yeller ,Children's|Drama,3.7
+1014,Pollyanna ,Children's|Comedy|Drama,3.4
+1017,Swiss Family Robinson ,Adventure|Children's,3.6
+1018,That Darn Cat! ,Children's|Comedy|Mystery,3.3
+1020,Cool Runnings ,Comedy,3.2
+1021,Angels in the Outfield ,Children's|Comedy,2.8
+1022,Cinderella ,Animation|Children's|Musical,3.8
+1023,Winnie the Pooh and the Blustery Day ,Animation|Children's,4.0
+1026,So Dear to My Heart ,Children's|Drama,3.6
+1028,Mary Poppins ,Children's|Comedy|Musical,3.9
+1029,Dumbo ,Animation|Children's|Musical,3.7
+1030,Pete's Dragon ,Adventure|Animation|Children's|Musical,3.1
+1031,Bedknobs and Broomsticks ,Adventure|Children's|Musical,3.5
+1032,Alice in Wonderland ,Animation|Children's|Musical,3.7
+1034,Freeway ,Crime,3.6
+1036,Die Hard ,Action|Thriller,4.1
+1038,Unhook the Stars ,Drama,3.3
+1039,Synthetic Pleasures ,Documentary,3.7
+1041,Secrets & Lies ,Drama,4.0
+1042,That Thing You Do! ,Comedy,3.5
+1043,To Gillian on Her 37th Birthday ,Drama|Romance,2.8
+1044,Surviving Picasso ,Drama,3.3
+1045,Love Is All There Is ,Comedy|Drama,0.0
+1046,Beautiful Thing ,Drama|Romance,4.1
+1050,Looking for Richard ,Documentary|Drama,3.8
+1051,Trees Lounge ,Drama,3.4
+1053,Normal Life ,Crime|Drama,2.9
+1054,Get on the Bus ,Drama,3.3
+1055,Shadow Conspiracy ,Thriller,2.7
+1056,Jude ,Drama,3.5
+1057,Everyone Says I Love You ,Comedy|Musical|Romance,3.6
+1058,Bitter Sugar (Azucar Amargo) ,Drama,3.3
+1059,William Shakespeare's Romeo and Juliet ,Drama|Romance,3.4
+1060,Swingers ,Comedy|Drama,3.9
+1061,Sleepers ,Crime|Drama,3.6
+1063,Johns ,Drama,3.2
+1064,Aladdin and the King of Thieves ,Animation|Children's|Comedy,2.9
+1066,Shall We Dance? ,Comedy|Musical|Romance,4.2
+1068,Crossfire ,Crime|Film-Noir,3.7
+1070,Macao ,Adventure,3.0
+1071,For the Moment ,Romance|War,3.4
+1073,Willy Wonka and the Chocolate Factory ,Adventure|Children's|Comedy|Fantasy,3.9
+1077,Sleeper ,Comedy|Sci-Fi,4.0
+1078,Bananas ,Comedy|War,3.8
+1080,Monty Python's Life of Brian ,Comedy,4.0
+1081,Victor/Victoria ,Comedy|Musical,3.6
+1084,Bonnie and Clyde ,Crime|Drama,4.1
+1086,Dial M for Murder ,Mystery|Thriller,4.1
+1087,Madame Butterfly ,Musical,3.4
+1088,Dirty Dancing ,Musical|Romance,3.3
+1089,Reservoir Dogs ,Crime|Thriller,4.1
+1090,Platoon ,Drama|War,4.1
+1091,Weekend at Bernie's ,Comedy,2.8
+1092,Basic Instinct ,Mystery|Thriller,3.5
+1095,Glengarry Glen Ross ,Drama,3.9
+1096,Sophie's Choice ,Drama,4.0
+1097,E.T. the Extra-Terrestrial ,Children's|Drama|Fantasy|Sci-Fi,4.0
+1100,Days of Thunder ,Action|Romance,2.8
+1101,Top Gun ,Action|Romance,3.7
+1102,American Strays ,Action,2.0
+1103,Rebel Without a Cause ,Drama,3.9
+1107,Loser ,Comedy,2.0
+1108,Prerokbe Ognja ,Documentary,0.0
+1109,Charm's Incidents ,Drama,0.0
+1110,Bird of Prey ,Action,0.0
+1112,Palookaville ,Action|Drama,3.4
+1115,Sleepover ,Comedy|Drama,1.0
+1118,Tashunga ,Adventure|Western,2.0
+1119,Drunks ,Drama,3.2
+1121,Glory Daze ,Drama,3.1
+1122,Plutonium Circus ,Documentary,0.0
+1124,On Golden Pond ,Drama,3.7
+1126,Drop Dead Fred ,Comedy|Fantasy,2.4
+1129,Escape from New York ,Action|Adventure|Sci-Fi|Thriller,3.5
+1131,Jean de Florette ,Drama,4.3
+1132,Manon of the Spring (Manon des sources) ,Drama,4.3
+1133,Talking About Sex ,Comedy|Drama,2.0
+1134,Johnny 100 Pesos ,Action|Drama,3.0
+1135,Private Benjamin ,Comedy,3.2
+1136,Monty Python and the Holy Grail ,Comedy,4.3
+1137,Hustler White ,Romance,0.0
+1138,Dadetown ,Documentary,3.9
+1139,Everything Relative ,Drama,4.0
+1141,Hoogste tijd ,Drama,0.0
+1142,Get Over It ,Drama,1.0
+1143,Three Lives and Only One Death ,Comedy,0.0
+1145,Snowriders ,Documentary,2.5
+1146,Curtis's Charm ,Comedy|Drama,0.0
+1147,When We Were Kings ,Documentary,4.3
+1149,JLG/JLG - autoportrait de décembre ,Documentary|Drama,3.5
+1151,Faust ,Animation|Comedy|Thriller,3.5
+1152,He Walked by Night ,Crime|Film-Noir|Thriller,3.5
+1153,Raw Deal ,Film-Noir,3.4
+1154,T-Men ,Film-Noir,3.7
+1158,Here Comes Cookie ,Comedy,0.0
+1159,Love in Bloom ,Romance,0.0
+1160,Six of a Kind ,Comedy,2.2
+1163,Mina Tannenbaum ,Drama,2.9
+1164,Two or Three Things I Know About Her ,Drama,3.6
+1166,Farmer & Chase ,Comedy,0.0
+1167,Dear God ,Comedy,2.9
+1168,Bad Moon ,Horror,2.1
+1169,American Dream ,Documentary,3.7
+1171,Bob Roberts ,Comedy,3.7
+1172,Cinema Paradiso ,Comedy|Drama|Romance,4.3
+1174,Grosse Fatigue ,Comedy,3.8
+1175,Delicatessen ,Comedy|Sci-Fi,4.0
+1177,Enchanted April ,Drama,4.0
+1178,Paths of Glory ,Drama|War,4.5
+1180,Hear My Song ,Comedy,3.8
+1184,Mediterraneo ,Comedy|War,3.8
+1185,My Left Foot ,Drama,4.0
+1187,Passion Fish ,Drama,3.7
+1188,Strictly Ballroom ,Comedy|Romance,4.0
+1190,Tie Me Up! Tie Me Down! ,Drama,3.5
+1192,Paris Is Burning ,Documentary,4.0
+1193,One Flew Over the Cuckoo's Nest ,Drama,4.4
+1194,Up in Smoke ,Comedy,3.5
+1198,Raiders of the Lost Ark ,Action|Adventure,4.5
+1199,Brazil ,Sci-Fi,4.1
+1200,Aliens ,Action|Sci-Fi|Thriller|War,4.1
+1202,Withnail and I ,Comedy,3.6
+1203,12 Angry Men ,Drama,4.3
+1204,Lawrence of Arabia ,Adventure|War,4.4
+1207,To Kill a Mockingbird ,Drama,4.4
+1208,Apocalypse Now ,Drama|War,4.2
+1209,Once Upon a Time in the West ,Western,4.0
+1211,Wings of Desire (Der Himmel über Berlin) ,Comedy|Drama|Romance,4.1
+1213,GoodFellas ,Crime|Drama,4.3
+1214,Alien ,Action|Horror|Sci-Fi|Thriller,4.2
+1215,Army of Darkness ,Action|Adventure|Comedy|Horror|Sci-Fi,3.8
+1217,Ran ,Drama|War,4.3
+1219,Psycho ,Horror|Thriller,4.2
+1222,Full Metal Jacket ,Action|Drama|War,4.1
+1224,Henry V ,Drama|War,4.3
+1225,Amadeus ,Drama,4.3
+1227,Once Upon a Time in America ,Crime|Drama|Thriller,3.9
+1228,Raging Bull ,Drama,4.2
+1230,Annie Hall ,Comedy|Romance,4.1
+1232,Stalker ,Mystery|Sci-Fi,3.6
+1235,Harold and Maude ,Comedy,4.2
+1236,Trust ,Comedy|Drama,4.2
+1238,Local Hero ,Comedy,4.0
+1241,Braindead ,Comedy|Horror,3.4
+1242,Glory ,Action|Drama|War,4.2
+1243,Rosencrantz and Guildenstern Are Dead ,Comedy|Drama,4.0
+1244,Manhattan ,Comedy|Drama|Romance,4.1
+1245,Miller's Crossing ,Drama,4.0
+1246,Dead Poets Society ,Drama,4.0
+1248,Touch of Evil ,Crime|Film-Noir|Thriller,4.2
+1249,Nikita (La Femme Nikita) ,Thriller,4.0
+1251,8 1/2 ,Drama,4.1
+1252,Chinatown ,Film-Noir|Mystery|Thriller,4.3
+1255,Bad Taste ,Comedy|Horror,3.4
+1256,Duck Soup ,Comedy|War,4.2
+1257,Better Off Dead... ,Comedy,3.9
+1259,Stand by Me ,Adventure|Comedy|Drama,4.1
+1260,M ,Crime|Film-Noir|Thriller,4.3
+1261,Evil Dead II (Dead By Dawn) ,Action|Adventure|Comedy|Horror,3.8
+1264,Diva ,Action|Drama|Mystery|Romance|Thriller,4.1
+1265,Groundhog Day ,Comedy|Romance,4.0
+1266,Unforgiven ,Western,4.1
+1268,Pump Up the Volume ,Drama,3.5
+1269,Arsenic and Old Lace ,Comedy|Mystery|Thriller,4.2
+1270,Back to the Future ,Comedy|Sci-Fi,4.0
+1271,Fried Green Tomatoes ,Drama,3.8
+1272,Patton ,Drama|War,4.3
+1273,Down by Law ,Comedy|Drama,4.0
+1274,Akira ,Adventure|Animation|Sci-Fi|Thriller,3.9
+1275,Highlander ,Action|Adventure,3.8
+1276,Cool Hand Luke ,Comedy|Drama,4.3
+1277,Cyrano de Bergerac ,Action|Drama|Romance,3.9
+1278,Young Frankenstein ,Comedy|Horror,4.3
+1279,Night on Earth ,Comedy|Drama,3.7
+1280,Raise the Red Lantern ,Drama,4.2
+1282,Fantasia ,Animation|Children's|Musical,3.9
+1283,High Noon ,Western,4.2
+1285,Heathers ,Comedy,3.8
+1286,Somewhere in Time ,Drama|Romance,3.6
+1287,Ben-Hur ,Action|Adventure|Drama,4.1
+1288,This Is Spinal Tap ,Comedy|Drama|Musical,4.2
+1289,Koyaanisqatsi ,Documentary|War,4.0
+1290,Some Kind of Wonderful ,Drama|Romance,3.6
+1291,Indiana Jones and the Last Crusade ,Action|Adventure,4.1
+1292,Being There ,Comedy,4.0
+1293,Gandhi ,Drama,4.1
+1294,M*A*S*H ,Comedy|War,4.1
+1297,Real Genius ,Comedy,3.7
+1298,Pink Floyd - The Wall ,Drama|Musical|War,3.6
+1300,My Life as a Dog (Mitt liv som hund) ,Drama,4.1
+1301,Forbidden Planet ,Sci-Fi,4.0
+1302,Field of Dreams ,Drama,3.9
+1304,Butch Cassidy and the Sundance Kid ,Action|Comedy|Western,4.2
+1306,Until the End of the World (Bis ans Ende der Welt) ,Drama|Sci-Fi,3.6
+1307,When Harry Met Sally... ,Comedy|Romance,4.1
+1308,I Shot a Man in Vegas ,Comedy,0.0
+1309,Parallel Sons ,Drama|Romance,0.0
+1310,Hype! ,Documentary,3.6
+1311,Santa with Muscles ,Comedy,1.0
+1312,Female Perversions ,Drama,3.2
+1313,Mad Dog Time ,Crime,2.2
+1314,Breathing Room ,Romance,0.0
+1315,Paris Was a Woman ,Documentary,2.3
+1316,Anna ,Drama,4.0
+1317,I'm Not Rappaport ,Comedy,3.2
+1318,Blue Juice ,Comedy|Drama,0.0
+1319,Kids of Survival ,Documentary,0.0
+1320,Alien³ ,Action|Horror|Sci-Fi|Thriller,3.0
+1323,Amityville 3-D ,Horror,1.4
+1329,Blood For Dracula (Andy Warhol's Dracula) ,Horror,2.7
+1330,April Fool's Day ,Comedy|Horror,3.0
+1331,Audrey Rose ,Horror,3.2
+1335,Blood Beach ,Action|Horror,1.7
+1336,Body Parts ,Horror,2.2
+1339,Bram Stoker's Dracula ,Horror|Romance,3.3
+1340,Bride of Frankenstein ,Horror,3.9
+1341,Burnt Offerings ,Horror,2.8
+1342,Candyman ,Horror,2.9
+1343,Cape Fear ,Thriller,3.7
+1344,Cape Fear ,Film-Noir|Thriller,3.9
+1345,Carrie ,Horror,3.6
+1346,Cat People ,Horror,3.2
+1349,Nosferatu a Venezia ,Horror,3.1
+1351,Blood & Wine ,Drama,3.4
+1352,Albino Alligator ,Crime|Thriller,2.9
+1354,Breaking the Waves ,Drama,3.8
+1355,Nightwatch ,Horror|Thriller,3.0
+1357,Shine ,Drama|Romance,3.8
+1358,Sling Blade ,Drama|Thriller,4.2
+1359,Jingle All the Way ,Adventure|Children's|Comedy,2.5
+1360,Identification of a Woman (Identificazione di una donna) ,Drama,3.5
+1364,Zero Kelvin (Kjærlighetens kjøtere) ,Action,3.5
+1365,Ridicule ,Drama,3.8
+1367,101 Dalmatians ,Children's|Comedy,3.0
+1369,I Can't Sleep (J'ai pas sommeil) ,Drama|Thriller,3.8
+1370,Die Hard 2 ,Action|Thriller,3.5
+1377,Batman Returns ,Action|Adventure|Comedy|Crime,3.0
+1378,Young Guns ,Action|Comedy|Western,3.4
+1379,Young Guns II ,Action|Comedy|Western,2.9
+1380,Grease ,Comedy|Musical|Romance,3.6
+1381,Grease 2 ,Comedy|Musical|Romance,2.0
+1382,Marked for Death ,Action|Drama,2.8
+1385,Under Siege ,Action,3.3
+1386,Terror in a Texas Town ,Western,1.0
+1387,Jaws ,Action|Horror,4.1
+1388,Jaws 2 ,Action|Horror,2.6
+1389,Jaws 3-D ,Action|Horror,1.9
+1390,My Fellow Americans ,Comedy,3.2
+1391,Mars Attacks! ,Action|Comedy|Sci-Fi|War,2.9
+1392,Citizen Ruth ,Comedy|Drama,3.7
+1393,Jerry Maguire ,Drama|Romance,3.8
+1394,Raising Arizona ,Comedy,4.0
+1395,Tin Men ,Comedy|Drama,3.3
+1396,Sneakers ,Crime|Drama|Sci-Fi,3.7
+1397,Bastard Out of Carolina ,Drama,3.7
+1398,In Love and War ,Romance|War,3.2
+1399,Marvin's Room ,Drama,3.2
+1400,Somebody is Waiting ,Drama,0.0
+1401,Ghosts of Mississippi ,Drama,3.5
+1404,Night Falls on Manhattan ,Crime|Drama,3.1
+1405,Beavis and Butt-head Do America ,Animation|Comedy,3.0
+1407,Scream ,Horror|Thriller,3.6
+1409,Michael ,Comedy|Romance,3.1
+1411,Hamlet ,Drama,4.0
+1412,Some Mother's Son ,Drama,3.9
+1414,Mother ,Comedy,3.6
+1416,Evita ,Drama|Musical,3.3
+1419,Walkabout ,Drama,4.0
+1421,Grateful Dead ,Documentary,3.0
+1422,Murder at 1600 ,Mystery|Thriller,3.0
+1423,Hearts and Minds ,Drama,4.4
+1424,Inside ,Action,0.0
+1425,Fierce Creatures ,Comedy,3.3
+1426,Zeus and Roxanne ,Children's,2.5
+1427,Turbulence ,Thriller,2.3
+1428,Angel Baby ,Drama,3.2
+1429,Jackie Chan's First Strike ,Action,3.3
+1430,Underworld ,Thriller,1.0
+1431,Beverly Hills Ninja ,Action|Comedy,2.5
+1432,Metro ,Action,2.8
+1436,Falling in Love Again ,Comedy,2.9
+1438,Dante's Peak ,Action|Thriller,2.8
+1439,Meet Wally Sparks ,Comedy,2.3
+1440,Amos & Andrew ,Comedy,2.8
+1441,Benny & Joon ,Comedy|Romance,3.4
+1442,Prefontaine ,Drama,3.1
+1444,Guantanamera ,Comedy,3.4
+1445,McHale's Navy ,Comedy|War,2.2
+1446,Kolya ,Comedy,4.1
+1447,Gridlock'd ,Crime,3.4
+1448,Fire on the Mountain ,Documentary,0.0
+1449,Waiting for Guffman ,Comedy,4.1
+1450,Prisoner of the Mountains (Kavkazsky Plennik) ,War,3.8
+1454,SubUrbia ,Comedy,3.2
+1455,Hotel de Love ,Comedy|Romance,2.8
+1457,Fools Rush In ,Comedy|Romance,3.1
+1458,Touch ,Romance,2.8
+1459,Absolute Power ,Mystery|Thriller,3.4
+1460,That Darn Cat! ,Children's|Comedy|Mystery,2.7
+1461,Vegas Vacation ,Comedy,2.6
+1463,That Old Feeling ,Comedy|Romance,3.0
+1465,Rosewood ,Drama,3.5
+1466,Donnie Brasco ,Crime|Drama,3.8
+1467,Salut cousin! ,Comedy|Drama,0.0
+1468,Booty Call ,Comedy|Romance,2.6
+1470,Rhyme & Reason ,Documentary,4.0
+1471,Boys Life 2 ,Drama,3.4
+1472,City of Industry ,Crime|Thriller,3.2
+1473,Best Men ,Action|Comedy|Crime|Drama,2.8
+1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle) ,Children's|Comedy,2.3
+1476,Private Parts ,Comedy|Drama,3.5
+1477,Love Jones ,Romance,3.4
+1480,Smilla's Sense of Snow ,Action|Drama|Thriller,3.3
+1483,Crash ,Drama|Thriller,2.8
+1485,Liar Liar ,Comedy,3.5
+1487,Selena ,Drama|Musical,3.1
+1489,Cats Don't Dance ,Animation|Children's|Musical,2.6
+1490,B*A*P*S ,Comedy,1.8
+1493,Love and Other Catastrophes ,Romance,3.3
+1496,Anna Karenina ,Drama|Romance,3.2
+1497,Double Team ,Action,2.1
+1498,Inventing the Abbotts ,Drama|Romance,3.1
+1499,Anaconda ,Action|Adventure|Thriller,2.2
+1500,Grosse Pointe Blank ,Comedy|Crime,3.8
+1501,Keys to Tulsa ,Crime,2.6
+1502,Kissed ,Romance,3.1
+1503,8 Heads in a Duffel Bag ,Comedy,2.3
+1504,Hollow Reed ,Drama,3.5
+1507,Paradise Road ,Drama|War,3.3
+1508,Traveller ,Drama,3.3
+1509,All Over Me ,Drama,3.7
+1511,A Chef in Love ,Comedy,3.6
+1513,Romy and Michele's High School Reunion ,Comedy,3.0
+1514,Temptress Moon (Feng Yue) ,Romance,2.7
+1515,Volcano ,Drama|Thriller,2.6
+1516,Children of the Revolution ,Comedy,3.7
+1518,Breakdown ,Action|Thriller,3.4
+1519,Broken English ,Drama,3.3
+1520,Commandments ,Romance,2.5
+1522,Ripe ,Drama,2.4
+1525,Warriors of Virtue ,Action|Adventure|Children's|Fantasy,2.1
+1526,Fathers' Day ,Comedy,2.5
+1528,Intimate Relations ,Comedy,2.0
+1529,Nowhere ,Drama,3.2
+1531,Losing Chase ,Drama,3.6
+1532,Sprung ,Comedy,2.7
+1535,Love! Valour! Compassion! ,Drama|Romance,3.5
+1537,Shall We Dance? (Shall We Dansu?) ,Comedy,4.1
+1539,Twin Town ,Comedy|Crime,2.8
+1541,Addicted to Love ,Comedy|Romance,3.1
+1542,Brassed Off ,Comedy|Drama|Romance,3.5
+1545,Ponette ,Drama,4.1
+1546,Schizopolis ,Comedy,3.8
+1547,Shiloh ,Children's|Drama,3.3
+1549,Rough Magic ,Drama|Romance,2.7
+1550,Trial and Error ,Comedy|Romance,2.7
+1551,Buddy ,Adventure|Children's|Drama,2.8
+1552,Con Air ,Action|Adventure|Thriller,3.3
+1553,Late Bloomers ,Comedy,2.8
+1557,Squeeze ,Drama,0.0
+1558,Sudden Manhattan ,Comedy,1.5
+1561,Wedding Bell Blues ,Comedy,3.2
+1562,Batman & Robin ,Action|Adventure|Crime,2.3
+1563,Dream With the Fishes ,Drama,3.6
+1564,Roseanna's Grave (For Roseanna) ,Comedy|Romance,3.8
+1565,Head Above Water ,Comedy|Thriller,3.0
+1566,Hercules ,Adventure|Animation|Children's|Comedy|Musical,3.3
+1568,MURDER and murder ,Crime|Drama|Mystery,0.0
+1569,My Best Friend's Wedding ,Comedy|Romance,3.4
+1571,When the Cats Away (Chacun cherche son chat) ,Comedy|Romance,4.0
+1572,Contempt (Le Mépris) ,Drama,3.7
+1573,Face/Off ,Action|Sci-Fi|Thriller,3.4
+1574,Fall ,Romance,2.9
+1575,Gabbeh ,Drama,3.1
+1577,Mondo ,Drama,0.0
+1579,For Ever Mozart ,Drama,3.0
+1580,Men in Black ,Action|Adventure|Comedy|Sci-Fi,3.7
+1581,Out to Sea ,Comedy,2.8
+1582,Wild America ,Adventure|Children's,3.2
+1584,Contact ,Drama|Sci-Fi,3.8
+1585,Love Serenade ,Comedy,3.2
+1586,G.I. Jane ,Action|Drama|War,3.1
+1587,Conan the Barbarian ,Action|Adventure,3.4
+1588,George of the Jungle ,Children's|Comedy,3.1
+1589,Cop Land ,Crime|Drama|Mystery,3.4
+1590,Event Horizon ,Action|Mystery|Sci-Fi|Thriller,2.5
+1591,Spawn ,Action|Adventure|Sci-Fi|Thriller,2.6
+1592,Air Bud ,Children's|Comedy,2.5
+1593,Picture Perfect ,Comedy|Romance,2.9
+1594,In the Company of Men ,Drama,3.8
+1596,Career Girls ,Drama,3.5
+1597,Conspiracy Theory ,Action|Mystery|Romance|Thriller,3.4
+1598,Desperate Measures ,Crime|Drama|Thriller,2.7
+1599,Steel ,Action,1.6
+1600,She's So Lovely ,Drama|Romance,2.9
+1601,Hoodlum ,Crime|Drama|Film-Noir,2.7
+1602,Leave It to Beaver ,Comedy,2.1
+1603,Mimic ,Sci-Fi|Thriller,2.9
+1604,Money Talks ,Action|Comedy,2.8
+1605,Excess Baggage ,Adventure|Romance,2.7
+1606,Kull the Conqueror ,Action|Adventure,2.3
+1608,Air Force One ,Action|Thriller,3.6
+1609,187 ,Drama,2.7
+1611,My Own Private Idaho ,Drama,3.4
+1613,Star Maps ,Drama,2.9
+1614,In & Out ,Comedy,3.3
+1617,L.A. Confidential ,Crime|Film-Noir|Mystery|Thriller,4.2
+1619,Seven Years in Tibet ,Drama|War,3.4
+1620,Kiss the Girls ,Crime|Drama|Thriller,3.3
+1621,Soul Food ,Drama,3.3
+1622,Kicked in the Head ,Comedy|Drama,2.4
+1623,Wishmaster ,Horror,2.2
+1626,Fire Down Below ,Action|Drama|Thriller,2.5
+1627,U Turn ,Action|Crime|Mystery,3.1
+1633,Ulee's Gold ,Drama,3.7
+1636,Stag ,Action|Thriller,2.4
+1639,Chasing Amy ,Drama|Romance,3.8
+1640,How to Be a Player ,Comedy,2.5
+1642,Indian Summer (a.k.a. Alive & Kicking) ,Comedy|Drama,3.1
+1644,I Know What You Did Last Summer ,Horror|Mystery|Thriller,2.6
+1646,Rocket Man ,Comedy,2.8
+1647,Playing God ,Crime|Thriller,2.9
+1650,Washington Square ,Drama,3.3
+1651,Telling Lies in America ,Drama,2.9
+1652,Year of the Horse ,Documentary,3.2
+1653,Gattaca ,Drama|Sci-Fi|Thriller,3.7
+1655,Phantoms ,Horror,2.4
+1656,Swept from the Sea ,Romance,3.2
+1657,Wonderland ,Documentary,3.5
+1659,Hurricane Streets ,Drama,2.9
+1660,Eve's Bayou ,Drama,3.6
+1661,Switchback ,Thriller,3.2
+1662,Gang Related ,Crime,2.6
+1663,Stripes ,Comedy,3.8
+1664,Nénette et Boni ,Drama,4.2
+1665,Bean ,Comedy,2.7
+1666,Hugo Pool ,Romance,2.6
+1667,Mad City ,Action|Drama,2.8
+1668,One Night Stand ,Drama,2.5
+1670,Welcome To Sarajevo ,Drama|War,3.5
+1671,Deceiver ,Crime,3.2
+1673,Boogie Nights ,Drama,3.8
+1674,Witness ,Drama|Romance|Thriller,4.0
+1675,Incognito ,Crime|Thriller,3.1
+1676,Starship Troopers ,Action|Adventure|Sci-Fi|War,3.1
+1677,Critical Care ,Comedy,2.8
+1679,Chairman of the Board ,Comedy,2.0
+1680,Sliding Doors ,Drama|Romance,3.8
+1684,Mrs. Dalloway ,Romance,3.7
+1686,Red Corner ,Crime|Thriller,3.2
+1688,Anastasia ,Animation|Children's|Musical,3.5
+1692,Alien Escape ,Horror|Sci-Fi,2.5
+1693,Amistad ,Drama,3.7
+1695,Artemisia ,Drama,3.7
+1696,Bent ,Drama|War,3.6
+1701,Deconstructing Harry ,Comedy|Drama,3.4
+1702,Flubber ,Children's|Comedy|Fantasy,2.6
+1703,For Richer or Poorer ,Comedy,2.9
+1704,Good Will Hunting ,Drama,4.2
+1705,Guy ,Drama,0.0
+1706,Harlem River Drive ,Drama,0.0
+1707,Home Alone 3 ,Children's|Comedy,1.9
+1708,Ill Gotten Gains ,Drama,0.0
+1709,Legal Deceit ,Thriller,2.0
+1710,Man of Her Dreams ,Drama,0.0
+1711,Midnight in the Garden of Good and Evil ,Comedy|Crime|Drama|Mystery,3.3
+1713,Mouse Hunt ,Children's|Comedy,3.0
+1714,Never Met Picasso ,Romance,2.0
+1715,Office Killer ,Thriller,3.0
+1717,Scream 2 ,Horror|Thriller,3.0
+1718,Stranger in the House ,Thriller,2.6
+1720,Time Tracers ,Action|Adventure|Sci-Fi,1.3
+1721,Titanic ,Drama|Romance,3.6
+1722,Tomorrow Never Dies ,Action|Romance|Thriller,3.4
+1723,Twisted ,Comedy|Drama,0.0
+1724,Full Speed ,Drama,3.0
+1729,Jackie Brown ,Crime|Drama,3.7
+1730,Kundun ,Drama,3.7
+1731,Mr. Magoo ,Comedy,1.9
+1733,Afterglow ,Drama|Romance,3.1
+1734,My Life in Pink (Ma vie en rose) ,Comedy|Drama,3.8
+1735,Great Expectations ,Drama|Romance,3.2
+1738,Vermin ,Comedy,0.0
+1740,Men of Means ,Action|Drama,0.0
+1742,Caught Up ,Crime,0.0
+1743,Arguing the World ,Documentary,3.9
+1744,Firestorm ,Action|Adventure|Thriller,2.7
+1746,Senseless ,Comedy,2.8
+1747,Wag the Dog ,Comedy|Drama,3.5
+1748,Dark City ,Film-Noir|Sci-Fi|Thriller,3.8
+1750,Star Kid ,Adventure|Children's|Fantasy|Sci-Fi,2.2
+1752,Hard Rain ,Action|Thriller,2.7
+1753,Half Baked ,Comedy,3.2
+1754,Fallen ,Action|Mystery|Thriller,3.4
+1755,Shooting Fish ,Romance,3.5
+1757,Duoluo tianshi ,Drama,0.0
+1758,Dangerous Beauty ,Drama,3.6
+1759,Four Days in September ,Drama,4.0
+1760,Spice World ,Comedy|Musical,1.9
+1762,Deep Rising ,Action|Horror|Sci-Fi,2.7
+1764,Tainted ,Comedy|Thriller,3.0
+1767,Music From Another Room ,Drama|Romance,3.0
+1768,Mat' i syn ,Drama,0.0
+1770,B. Monkey ,Romance|Thriller,3.5
+1771,Night Flier ,Horror,2.6
+1772,Blues Brothers 2000 ,Action|Comedy|Musical,2.4
+1773,Tokyo Fist ,Action|Drama,2.5
+1774,Mass Transit ,Comedy|Drama,0.0
+1776,Ride ,Drama,0.0
+1779,Sphere ,Adventure|Sci-Fi|Thriller,2.7
+1782,Little City ,Comedy|Romance,2.5
+1783,Palmetto ,Film-Noir|Mystery|Thriller,2.9
+1784,As Good As It Gets ,Comedy|Drama,4.0
+1785,King of New York ,Action|Crime,3.4
+1788,Men With Guns ,Action|Drama,4.0
+1791,Twilight ,Crime|Drama,3.0
+1792,U.S. Marshalls ,Action|Thriller,3.2
+1793,Welcome to Woop-Woop ,Comedy,2.4
+1794,Love and Death on Long Island ,Comedy|Drama,3.4
+1796,In God's Hands ,Action|Drama,2.4
+1797,Everest ,Documentary,4.0
+1798,Hush ,Thriller,2.6
+1799,Suicide Kings ,Crime|Drama,3.4
+1805,Wild Things ,Crime|Drama|Mystery|Thriller,3.4
+1806,Paulie ,Adventure|Children's|Comedy,2.9
+1809,Hana-bi ,Comedy|Crime|Drama,3.8
+1810,Primary Colors ,Drama,3.6
+1812,Wide Awake ,Children's|Comedy|Drama,3.5
+1815,Eden ,Drama,2.0
+1816,Two Girls and a Guy ,Comedy|Drama,3.0
+1817,No Looking Back ,Comedy|Drama|Romance,3.0
+1819,Storefront Hitchcock ,Drama,0.0
+1822,Meet the Deedles ,Children's|Comedy,2.0
+1824,Homegrown ,Comedy|Thriller,3.4
+1826,Barney's Great Adventure ,Adventure|Children's,1.6
+1829,Chinese Box ,Drama|Romance,3.0
+1830,Follow the Bitch ,Comedy,5.0
+1831,Lost in Space ,Action|Sci-Fi|Thriller,2.6
+1832,Heaven's Burning ,Action|Drama,4.0
+1833,Mercury Rising ,Action|Drama|Thriller,3.0
+1835,City of Angels ,Romance,3.3
+1839,My Giant ,Comedy,2.3
+1840,He Got Game ,Drama,3.4
+1842,Illtown ,Crime|Drama,4.0
+1843,Slappy and the Stinkers ,Children's|Comedy,3.0
+1844,Live Flesh ,Drama,3.9
+1845,Zero Effect ,Comedy|Thriller,3.8
+1846,Nil By Mouth ,Drama,3.2
+1847,Ratchet ,Drama|Thriller,0.0
+1849,Prince Valiant ,Adventure,2.6
+1851,Leather Jacket Love Story ,Drama|Romance,4.0
+1852,Love Walked In ,Drama|Thriller,2.0
+1854,Kissing a Fool ,Comedy|Romance,3.0
+1855,Krippendorf's Tribe ,Comedy,2.4
+1856,Kurt & Courtney ,Documentary|Musical,3.1
+1858,Mr. Nice Guy ,Action|Comedy,3.3
+1859,Taste of Cherry ,Drama,3.5
+1860,Character (Karakter) ,Drama,3.8
+1861,Junk Mail ,Comedy|Thriller,3.3
+1862,Species II ,Horror|Sci-Fi,2.1
+1864,Sour Grapes ,Comedy,2.7
+1865,Wild Man Blues ,Documentary,3.6
+1867,Tarzan and the Lost City ,Action|Adventure,2.4
+1869,Black Dog ,Action|Thriller,2.3
+1872,Go Now ,Drama,3.2
+1874,Still Breathing ,Comedy|Romance,3.4
+1875,Clockwatchers ,Comedy,3.4
+1876,Deep Impact ,Action|Drama|Sci-Fi|Thriller,3.2
+1877,Little Men ,Drama,2.5
+1878,Woo ,Comedy|Romance,2.0
+1880,Lawn Dogs ,Drama,3.4
+1881,Quest for Camelot ,Adventure|Animation|Children's|Fantasy,2.8
+1882,Godzilla ,Action|Sci-Fi,2.3
+1883,Bulworth ,Comedy,3.4
+1884,Fear and Loathing in Las Vegas ,Comedy|Drama,3.3
+1886,I Got the Hook Up ,Comedy,2.8
+1887,Almost Heroes ,Adventure|Comedy,2.5
+1888,Hope Floats ,Comedy|Drama|Romance,3.0
+1889,Insomnia ,Thriller,3.9
+1890,Little Boy Blue ,Drama,2.4
+1893,Beyond Silence ,Drama,3.8
+1894,Six Days Seven Nights ,Adventure|Comedy|Romance,2.9
+1895,Can't Hardly Wait ,Comedy|Drama|Romance,3.2
+1896,Cousin Bette ,Comedy,3.1
+1897,High Art ,Drama|Romance,3.5
+1899,Passion in the Desert ,Adventure|Drama,3.2
+1901,Dear Jesse ,Documentary,4.0
+1902,Dream for an Insomniac ,Drama|Romance,3.1
+1903,Hav Plenty ,Comedy,3.3
+1904,Henry Fool ,Comedy|Drama,3.5
+1905,Marie Baie Des Anges ,Drama,1.5
+1906,Mr. Jealousy ,Comedy|Romance,3.2
+1907,Mulan ,Animation|Children's,3.7
+1908,Resurrection Man ,Drama|Thriller,3.0
+1910,I Went Down ,Action|Comedy|Crime,3.8
+1911,Doctor Dolittle ,Comedy,2.9
+1912,Out of Sight ,Action|Crime|Romance,3.8
+1913,Picnic at Hanging Rock ,Drama|Mystery,3.8
+1914,Smoke Signals ,Comedy|Drama,3.8
+1915,Voyage to the Beginning of the World ,Drama,4.0
+1916,Buffalo 66 ,Action|Comedy|Drama,3.5
+1917,Armageddon ,Action|Adventure|Sci-Fi|Thriller,3.2
+1918,Lethal Weapon 4 ,Action|Comedy|Crime|Drama,3.1
+1919,Madeline ,Children's|Comedy,3.2
+1920,Small Soldiers ,Animation|Children's|Fantasy|War,2.8
+1921,Pi ,Sci-Fi|Thriller,3.8
+1922,Whatever ,Drama,3.4
+1923,There's Something About Mary ,Comedy,3.9
+1924,Plan 9 from Outer Space ,Horror|Sci-Fi,2.6
+1925,Wings ,Drama|Romance|War,3.9
+1927,All Quiet on the Western Front ,War,4.2
+1928,Cimarron ,Western,3.4
+1929,Grand Hotel ,Drama,3.8
+1930,Cavalcade ,Drama,3.0
+1931,Mutiny on the Bounty ,Adventure,4.0
+1934,You Can't Take It With You ,Comedy,4.0
+1935,How Green Was My Valley ,Drama,4.0
+1936,Mrs. Miniver ,Drama|War,3.9
+1937,Going My Way ,Comedy,3.7
+1940,Gentleman's Agreement ,Drama,3.9
+1941,Hamlet ,Drama,3.8
+1942,All the King's Men ,Drama,4.0
+1944,From Here to Eternity ,Drama|Romance|War,4.1
+1945,On the Waterfront ,Crime|Drama,4.3
+1946,Marty ,Drama|Romance,4.0
+1947,West Side Story ,Musical|Romance,4.1
+1948,Tom Jones ,Comedy,3.9
+1950,In the Heat of the Night ,Drama|Mystery,4.1
+1951,Oliver! ,Musical,3.7
+1952,Midnight Cowboy ,Drama,4.1
+1954,Rocky ,Action|Drama,3.9
+1955,Kramer Vs. Kramer ,Drama,3.8
+1956,Ordinary People ,Drama,4.0
+1957,Chariots of Fire ,Drama,3.8
+1958,Terms of Endearment ,Comedy|Drama,3.6
+1959,Out of Africa ,Drama|Romance,3.7
+1961,Rain Man ,Drama,4.1
+1962,Driving Miss Daisy ,Drama,3.9
+1963,Take the Money and Run ,Comedy,4.1
+1964,Klute ,Drama|Mystery,3.8
+1965,Repo Man ,Comedy|Sci-Fi,3.7
+1966,Metropolitan ,Comedy,3.6
+1967,Labyrinth ,Adventure|Children's|Fantasy,3.6
+1970,Nightmare on Elm Street 3, Dream Warriors,2.6
+1974,Friday the 13th ,Horror,3.0
+1975,Friday the 13th Part 2 ,Horror,2.4
+1982,Halloween ,Horror,3.7
+1983,Halloween II ,Horror,2.8
+1987,Prom Night ,Horror,2.3
+1991,Child's Play ,Horror,2.7
+1992,Child's Play 2 ,Horror,2.1
+1993,Child's Play 3 ,Horror,1.9
+1994,Poltergeist ,Horror|Thriller,3.7
+1996,Poltergeist III ,Horror|Thriller,1.8
+2000,Lethal Weapon ,Action|Comedy|Crime|Drama,3.9
+2001,Lethal Weapon 2 ,Action|Comedy|Crime|Drama,3.5
+2002,Lethal Weapon 3 ,Action|Comedy|Crime|Drama,3.3
+2003,Gremlins ,Comedy|Horror,3.3
+2007,Polish Wedding ,Comedy,2.7
+2009,Soylent Green ,Sci-Fi|Thriller,3.5
+2010,Metropolis ,Sci-Fi,4.1
+2011,Back to the Future Part II ,Comedy|Sci-Fi,3.3
+2012,Back to the Future Part III ,Comedy|Sci-Fi|Western,3.2
+2014,Freaky Friday ,Children's|Comedy,3.2
+2017,Babes in Toyland ,Children's|Fantasy|Musical,3.0
+2018,Bambi ,Animation|Children's,3.7
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) ,Action|Drama,4.6
+2020,Dangerous Liaisons ,Drama|Romance,4.0
+2021,Dune ,Fantasy|Sci-Fi,3.4
+2025,Lolita ,Drama|Romance,3.3
+2026,Disturbing Behavior ,Horror|Thriller,2.7
+2027,Mafia! ,Comedy|Crime,2.4
+2028,Saving Private Ryan ,Action|Drama|War,4.3
+2029,Billy's Hollywood Screen Kiss ,Comedy|Romance,3.7
+2030,East Palace West Palace (Dong gong xi gong) ,Drama,0.0
+2035,Blackbeard's Ghost ,Children's|Comedy,3.1
+2036,Blank Check ,Children's|Comedy,2.2
+2037,Candleshoe ,Adventure|Children's|Comedy,3.5
+2039,Cheetah ,Adventure|Children's,1.0
+2041,Condorman ,Action|Adventure|Children's|Comedy,2.7
+2043,Darby O'Gill and the Little People ,Adventure|Children's|Fantasy,3.3
+2046,Flight of the Navigator ,Adventure|Children's|Sci-Fi,3.5
+2050,Herbie Goes Bananas ,Adventure|Children's|Comedy,2.5
+2051,Herbie Goes to Monte Carlo ,Adventure|Children's|Comedy,2.6
+2052,Hocus Pocus ,Children's|Comedy,2.9
+2055,Hot Lead and Cold Feet ,Comedy|Western,2.8
+2056,In Search of the Castaways ,Adventure|Children's,3.5
+2060,BASEketball ,Comedy,3.0
+2061,Full Tilt Boogie ,Documentary,3.6
+2063,Seventh Heaven (Le Septième ciel) ,Drama|Romance,2.5
+2064,Roger & Me ,Comedy|Documentary,4.1
+2066,Out of the Past ,Film-Noir,4.2
+2067,Doctor Zhivago ,Drama|Romance|War,4.1
+2068,Fanny and Alexander ,Drama,3.9
+2070,Tender Mercies ,Drama,3.9
+2071,And the Band Played On ,Drama,3.9
+2073,Fandango ,Comedy,3.7
+2075,Mephisto ,Drama|War,3.7
+2076,Blue Velvet ,Drama|Mystery,3.8
+2079,Kidnapped ,Children's|Drama,3.6
+2080,Lady and the Tramp ,Animation|Children's|Comedy|Musical|Romance,3.8
+2084,Newsies ,Children's|Musical,3.1
+2085,101 Dalmatians ,Animation|Children's,3.6
+2086,One Magic Christmas ,Drama|Fantasy,3.6
+2087,Peter Pan ,Animation|Children's|Fantasy|Musical,3.7
+2088,Popeye ,Adventure|Comedy|Musical,2.6
+2091,Return from Witch Mountain ,Children's|Sci-Fi,2.8
+2093,Return to Oz ,Adventure|Children's|Fantasy|Sci-Fi,2.9
+2096,Sleeping Beauty ,Animation|Children's|Musical,3.7
+2097,Something Wicked This Way Comes ,Children's|Horror,3.5
+2098,Son of Flubber ,Children's|Comedy,3.1
+2099,Song of the South ,Adventure|Animation|Children's|Musical,3.6
+2100,Splash ,Comedy|Fantasy|Romance,3.4
+2101,Squanto,action,3.5
+2102,Steamboat Willie ,Animation|Children's|Comedy|Musical,3.4
+2103,Tall Tale ,Adventure|Children's,3.1
+2104,Tex ,Drama,3.3
+2105,Tron ,Action|Adventure|Fantasy|Sci-Fi,3.4
+2106,Swing Kids ,Drama|War,3.3
+2108,L.A. Story ,Comedy|Romance,3.7
+2110,Dead Men Don't Wear Plaid ,Comedy|Crime|Thriller,3.3
+2112,Grand Canyon ,Crime|Drama,3.5
+2113,Graveyard Shift ,Horror|Thriller,2.2
+2115,Indiana Jones and the Temple of Doom ,Action|Adventure,3.7
+2117,Nineteen Eighty-Four ,Drama|Sci-Fi,3.7
+2119,Maximum Overdrive ,Horror,2.3
+2120,Needful Things ,Drama|Horror,2.9
+2121,Cujo ,Horror|Thriller,2.7
+2122,Children of the Corn ,Horror|Thriller,2.4
+2123,All Dogs Go to Heaven ,Animation|Children's,2.9
+2126,Snake Eyes ,Action|Crime|Mystery|Thriller,2.7
+2128,Safe Men ,Comedy,3.3
+2130,Atlantic City ,Crime|Drama|Romance,3.8
+2131,Autumn Sonata (Höstsonaten ) ,Drama,3.7
+2132,Who's Afraid of Virginia Woolf? ,Drama,4.1
+2133,Adventures in Babysitting ,Adventure|Comedy,3.3
+2134,Weird Science ,Comedy,3.4
+2135,Doctor Dolittle ,Adventure|Musical,3.2
+2137,Charlotte's Web ,Animation|Children's,3.8
+2138,Watership Down ,Animation|Children's|Drama|Fantasy,3.8
+2143,Legend ,Adventure|Fantasy|Romance,3.3
+2144,Sixteen Candles ,Comedy,3.7
+2145,Pretty in Pink ,Comedy|Drama|Romance,3.4
+2146,St. Elmo's Fire ,Drama|Romance,3.1
+2148,House ,Comedy|Horror,2.9
+2154,How Stella Got Her Groove Back ,Drama|Romance,2.8
+2160,Rosemary's Baby ,Horror|Thriller,3.8
+2163,Attack of the Killer Tomatoes! ,Comedy|Horror,2.6
+2164,Surf Nazis Must Die ,Drama,2.0
+2165,Your Friends and Neighbors ,Drama,3.4
+2166,Return to Paradise ,Drama|Romance,3.5
+2167,Blade ,Action|Adventure|Horror,3.5
+2168,Dance with Me ,Drama|Romance,3.1
+2169,Dead Man on Campus ,Comedy,2.7
+2170,Wrongfully Accused ,Action|Comedy,2.6
+2174,Beetlejuice ,Comedy|Fantasy,3.6
+2175,Déjà Vu ,Drama|Romance,3.8
+2176,Rope ,Thriller,3.9
+2177,Family Plot ,Comedy|Thriller,3.2
+2178,Frenzy ,Thriller,3.7
+2179,Topaz ,Thriller,3.2
+2180,Torn Curtain ,Thriller,3.3
+2181,Marnie ,Thriller,3.6
+2185,I Confess ,Thriller,3.6
+2186,Strangers on a Train ,Film-Noir|Thriller,4.3
+2187,Stage Fright ,Mystery|Thriller,3.6
+2188,54 ,Drama,2.8
+2189,I Married A Strange Person ,Animation,3.7
+2190,Why Do Fools Fall In Love? ,Drama,2.8
+2192,See the Sea (Regarde la mer) ,Drama,3.3
+2193,Willow ,Action|Adventure|Fantasy,3.5
+2195,Dirty Work ,Comedy,3.0
+2196,Knock Off ,Action,2.4
+2197,Firelight ,Drama,4.2
+2198,Modulations ,Documentary,4.0
+2199,Phoenix ,Crime|Drama,0.0
+2200,Under Capricorn ,Drama,2.5
+2202,Lifeboat ,Drama|Thriller|War,3.9
+2203,Shadow of a Doubt ,Film-Noir|Thriller,4.3
+2204,Saboteur ,Thriller,3.8
+2205,Mr. & Mrs. Smith ,Comedy,3.5
+2206,Suspicion ,Mystery|Thriller,4.0
+2207,Jamaica Inn ,Drama,2.9
+2209,Young and Innocent ,Crime|Thriller,3.3
+2210,Sabotage ,Thriller,3.7
+2211,Secret Agent ,Thriller,3.5
+2213,Waltzes from Vienna ,Comedy|Musical,1.0
+2214,Number Seventeen ,Thriller,3.0
+2215,Rich and Strange ,Comedy|Romance,3.5
+2217,Elstree Calling ,Comedy|Musical,1.0
+2218,Juno and Paycock ,Drama,2.0
+2219,Murder! ,Mystery|Thriller,3.4
+2221,Blackmail ,Thriller,3.1
+2222,Champagne ,Comedy,0.0
+2224,Downhill ,Drama,0.0
+2225,Easy Virtue ,Drama,0.0
+2230,Always Tell Your Wife ,Comedy,0.0
+2231,Rounders ,Crime|Drama,3.6
+2232,Cube ,Sci-Fi|Thriller,3.5
+2233,Digging to China ,Drama,1.6
+2234,Let's Talk About Sex ,Drama,1.9
+2235,One Man's Hero ,Drama|War,2.0
+2236,Simon Birch ,Drama,3.6
+2237,Without Limits ,Drama,3.6
+2238,Seven Beauties (Pasqualino Settebellezze) ,Comedy|Drama,3.8
+2239,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) ,Comedy|Drama,3.7
+2240,My Bodyguard ,Drama,3.5
+2241,Class ,Comedy,2.8
+2243,Broadcast News ,Comedy|Drama|Romance,3.7
+2245,Working Girl ,Comedy|Drama,3.4
+2246,Stars and Bars ,Comedy,2.7
+2247,Married to the Mob ,Comedy,3.1
+2248,Say Anything... ,Comedy|Drama|Romance,4.0
+2249,My Blue Heaven ,Comedy,3.2
+2250,Men Don't Leave ,Drama,3.1
+2252,Hero ,Comedy|Drama,3.0
+2253,Toys ,Action|Comedy|Fantasy,2.6
+2254,Choices ,Drama,2.0
+2255,Young Doctors in Love ,Comedy,2.6
+2256,Parasite ,Horror|Sci-Fi,2.4
+2257,No Small Affair ,Comedy|Romance,2.9
+2258,Master Ninja I ,Action,3.0
+2259,Blame It on Rio ,Comedy|Romance,2.7
+2260,Wisdom ,Action|Crime,2.8
+2261,One Crazy Summer ,Comedy,3.3
+2262,About Last Night... ,Comedy|Drama|Romance,3.2
+2264,We're No Angels ,Drama,2.6
+2265,Nothing But Trouble ,Adventure|Comedy,2.0
+2267,Mortal Thoughts ,Mystery|Thriller,2.9
+2269,Indecent Proposal ,Drama,2.7
+2271,Permanent Midnight ,Drama,3.3
+2272,One True Thing ,Drama,3.5
+2273,Rush Hour ,Action|Thriller,3.6
+2274,Lilian's Story ,Drama,0.0
+2275,Six-String Samurai ,Action|Adventure|Sci-Fi,3.4
+2277,Somewhere in the City ,Drama,2.0
+2278,Ronin ,Action|Crime|Thriller,3.5
+2279,Urban Legend ,Horror|Thriller,2.7
+2280,Clay Pigeons ,Crime,3.4
+2281,Monument Ave. ,Crime,3.5
+2282,Pecker ,Comedy|Drama,3.5
+2284,Bandit Queen ,Drama,3.8
+2285,If.... ,Drama,3.9
+2287,Them! ,Sci-Fi|Thriller|War,3.4
+2290,Stardust Memories ,Comedy|Drama,3.3
+2291,Edward Scissorhands ,Drama|Romance,3.6
+2292,Overnight Delivery ,Romance,2.5
+2293,Shadrach ,Drama,3.2
+2294,Antz ,Animation|Children's,3.5
+2297,What Dreams May Come ,Drama|Romance,3.1
+2298,Strangeland ,Thriller,1.9
+2302,My Cousin Vinny ,Comedy,3.8
+2303,Nashville ,Drama|Musical,3.9
+2304,Love Is the Devil ,Drama,3.6
+2305,Slam ,Drama,3.5
+2306,Holy Man ,Comedy,2.5
+2307,One Tough Cop ,Action|Drama,2.6
+2308,Detroit 9000 ,Action|Crime,2.0
+2311,2010 ,Mystery|Sci-Fi,3.4
+2312,Children of a Lesser God ,Drama,3.8
+2314,Beloved ,Drama,3.1
+2315,Bride of Chucky ,Horror|Thriller,2.4
+2316,Practical Magic ,Drama|Romance,3.0
+2318,Happiness ,Comedy,3.9
+2319,Reach the Rock ,Comedy,0.0
+2320,Apt Pupil ,Drama|Thriller,3.1
+2321,Pleasantville ,Comedy,3.7
+2322,Soldier ,Action|Adventure|Sci-Fi|Thriller|War,2.9
+2324,Life Is Beautiful (La Vita è bella) ,Comedy|Drama,4.3
+2325,Orgazmo ,Comedy,3.1
+2326,Shattered Image ,Drama|Thriller,3.0
+2328,Vampires ,Horror,2.8
+2329,American History X ,Drama,4.2
+2330,Hands on a Hard Body ,Documentary,4.2
+2331,Living Out Loud ,Comedy|Romance,3.2
+2332,Belly ,Crime|Drama,3.2
+2333,Gods and Monsters ,Drama,3.8
+2336,Elizabeth ,Drama,4.0
+2337,Velvet Goldmine ,Drama,3.2
+2338,I Still Know What You Did Last Summer ,Horror|Mystery|Thriller,2.2
+2339,I'll Be Home For Christmas ,Comedy|Romance,2.9
+2340,Meet Joe Black ,Romance,3.3
+2341,Dancing at Lughnasa ,Drama,3.3
+2342,Hard Core Logo ,Comedy,3.7
+2344,Runaway Train ,Action|Adventure|Drama|Thriller,3.4
+2345,Desert Bloom ,Drama,3.4
+2348,Sid and Nancy ,Drama,3.6
+2349,Mona Lisa ,Comedy|Thriller,3.6
+2350,Heart Condition ,Comedy,2.8
+2351,Nights of Cabiria (Le Notti di Cabiria) ,Drama,4.2
+2353,Enemy of the State ,Action|Thriller,3.7
+2356,Celebrity ,Comedy,2.9
+2357,Central Station (Central do Brasil) ,Drama,4.3
+2358,Savior ,Drama,4.0
+2359,Waking Ned Devine ,Comedy,3.9
+2361,Pink Flamingos ,Comedy,3.2
+2362,Glen or Glenda ,Drama,2.8
+2363,Godzilla (Gojira) ,Action|Sci-Fi,3.3
+2364,Godzilla (Gojira) ,Action|Sci-Fi,2.8
+2365,King Kong vs. Godzilla (Kingukongu tai Gojira) ,Action|Sci-Fi,2.8
+2366,King Kong ,Action|Adventure|Horror,3.7
+2367,King Kong ,Action|Adventure|Horror,2.8
+2368,King Kong Lives ,Action|Adventure|Horror,1.7
+2369,Desperately Seeking Susan ,Comedy|Romance,3.0
+2371,Fletch ,Comedy,3.6
+2372,Fletch Lives ,Comedy,3.0
+2373,Red Sonja ,Action|Adventure,2.5
+2374,Gung Ho ,Comedy|Drama,2.9
+2377,Lifeforce ,Horror|Sci-Fi,2.9
+2378,Police Academy ,Comedy,3.0
+2385,Home Fries ,Comedy|Romance,2.6
+2387,Very Bad Things ,Comedy|Crime,2.8
+2389,Psycho ,Crime|Horror|Thriller,2.7
+2390,Little Voice ,Comedy,3.7
+2392,Jack Frost ,Comedy|Drama,2.2
+2395,Rushmore ,Comedy,3.8
+2396,Shakespeare in Love ,Comedy|Romance,4.1
+2397,Mass Appeal ,Drama,3.3
+2398,Miracle on 34th Street ,Drama,4.0
+2400,Prancer ,Children's|Drama,2.9
+2401,Pale Rider ,Western,3.8
+2403,First Blood ,Action,3.6
+2404,Rambo III ,Action|War,2.3
+2406,Romancing the Stone ,Action|Adventure|Comedy|Romance,3.7
+2407,Cocoon ,Comedy|Sci-Fi,3.5
+2409,Rocky II ,Action|Drama,3.2
+2410,Rocky III ,Action|Drama,2.9
+2411,Rocky IV ,Action|Drama,2.6
+2412,Rocky V ,Action|Drama,2.1
+2413,Clue ,Comedy|Mystery,3.2
+2414,Young Sherlock Holmes ,Action|Adventure|Mystery,3.4
+2415,Violets Are Blue... ,Drama|Romance,2.8
+2416,Back to School ,Comedy,3.1
+2417,Heartburn ,Comedy|Drama,2.9
+2418,Nothing in Common ,Comedy,3.1
+2419,Extremities ,Drama|Thriller,3.2
+2423,Christmas Vacation ,Comedy,3.6
+2424,You've Got Mail ,Comedy|Romance,3.4
+2429,Mighty Joe Young ,Adventure|Children's|Drama,2.8
+2430,Mighty Joe Young ,Adventure|Children's|Drama,3.1
+2431,Patch Adams ,Comedy|Drama,3.1
+2432,Stepmom ,Drama,3.1
+2434,Down in the Delta ,Drama,3.6
+2435,Hurlyburly ,Drama,3.1
+2436,Tea with Mussolini ,Comedy,3.6
+2437,Wilde ,Drama,3.6
+2438,Outside Ozona ,Drama|Thriller,4.0
+2439,Affliction ,Drama,3.6
+2440,Another Day in Paradise ,Drama,3.4
+2442,Hilary and Jackie ,Drama,3.8
+2443,Playing by Heart ,Drama|Romance,3.6
+2445,At First Sight ,Drama,2.8
+2446,In Dreams ,Thriller,2.5
+2447,Varsity Blues ,Comedy|Drama,3.1
+2448,Virus ,Horror|Sci-Fi,2.3
+2450,Howard the Duck ,Adventure|Children's|Sci-Fi,2.1
+2457,Running Scared ,Action|Comedy,3.4
+2458,Armed and Dangerous ,Comedy|Crime,2.5
+2463,Ruthless People ,Comedy,3.5
+2464,Trick or Treat ,Horror,2.6
+2465,Deadly Friend ,Horror,2.0
+2466,Belizaire the Cajun ,Drama,3.5
+2468,Jumpin' Jack Flash ,Action|Comedy|Romance|Thriller,2.8
+2469,Peggy Sue Got Married ,Comedy|Romance,3.3
+2470,Crocodile Dundee ,Adventure|Comedy,3.4
+2471,Crocodile Dundee II ,Adventure|Comedy,2.6
+2472,Tough Guys ,Comedy,3.0
+2473,Soul Man ,Comedy,2.4
+2475,52 Pick-Up ,Action|Mystery|Thriller,3.3
+2476,Heartbreak Ridge ,Action|War,3.3
+2477,Firewalker ,Adventure,2.3
+2478,Three Amigos! ,Comedy|Western,3.1
+2479,Gloria ,Drama|Thriller,2.3
+2480,Dry Cleaning (Nettoyage à sec) ,Drama,4.5
+2481,My Name Is Joe ,Drama|Romance,3.6
+2482,Still Crazy ,Comedy|Romance,3.3
+2484,Tinseltown ,Comedy,2.0
+2485,She's All That ,Comedy|Romance,3.1
+2486,24-hour Woman ,Drama,1.8
+2488,Peeping Tom ,Drama|Horror|Thriller,3.9
+2489,Spanish Fly ,Drama,0.0
+2490,Payback ,Action|Thriller,3.5
+2491,Simply Irresistible ,Comedy|Romance,2.7
+2492,20 Dates ,Comedy,2.9
+2496,Blast from the Past ,Comedy|Romance,3.4
+2497,Message in a Bottle ,Romance,2.8
+2498,My Favorite Martian ,Comedy|Sci-Fi,2.3
+2499,God Said 'Ha!' ,Comedy,3.5
+2500,Jawbreaker ,Comedy,2.6
+2501,October Sky ,Drama,4.1
+2502,Office Space ,Comedy|Romance,3.8
+2504,200 Cigarettes ,Comedy|Drama,2.9
+2505,8MM ,Thriller,2.9
+2507,Breakfast of Champions ,Comedy,3.0
+2509,Eight Days a Week ,Comedy,2.8
+2510,Just the Ticket ,Comedy|Romance,3.7
+2513,Pet Sematary ,Horror,3.0
+2514,Pet Sematary II ,Horror,2.1
+2516,Children of the Corn III ,Horror,1.8
+2517,Christine ,Horror,3.1
+2518,Night Shift ,Comedy,3.5
+2519,House on Haunted Hill ,Horror,3.2
+2520,Airport ,Drama,3.1
+2521,Airport 1975 ,Drama,2.6
+2522,Airport '77 ,Drama,2.4
+2523,Rollercoaster ,Drama|Thriller,2.3
+2525,Alligator ,Action|Horror|Sci-Fi,2.2
+2526,Meteor ,Sci-Fi,2.4
+2527,Westworld ,Action|Sci-Fi|Thriller|Western,3.4
+2528,Logan's Run ,Action|Adventure|Sci-Fi,3.5
+2529,Planet of the Apes ,Action|Sci-Fi,3.7
+2530,Beneath the Planet of the Apes ,Action|Sci-Fi,2.9
+2531,Battle for the Planet of the Apes ,Action|Sci-Fi,2.8
+2532,Conquest of the Planet of the Apes ,Action|Sci-Fi,2.8
+2533,Escape from the Planet of the Apes ,Action|Sci-Fi,3.0
+2534,Avalanche ,Action,2.5
+2535,Earthquake ,Action,2.8
+2537,Beyond the Poseidon Adventure ,Adventure,1.9
+2538,Dancemaker ,Documentary,3.6
+2539,Analyze This ,Comedy,3.4
+2541,Cruel Intentions ,Drama,3.2
+2543,Six Ways to Sunday ,Comedy,3.5
+2545,Relax... It's Just Sex ,Comedy,2.8
+2547,Harvest ,Drama,0.0
+2549,Wing Commander ,Action|Sci-Fi,2.2
+2551,Dead Ringers ,Drama|Thriller,3.3
+2552,My Boyfriend's Back ,Comedy,2.2
+2553,Village of the Damned ,Horror|Sci-Fi|Thriller,3.4
+2554,Children of the Damned ,Horror|Sci-Fi|Thriller,3.2
+2555,Baby Geniuses ,Comedy,1.7
+2556,Telling You ,Comedy|Drama|Romance,3.0
+2557,I Stand Alone (Seul contre tous) ,Drama,3.4
+2558,Forces of Nature ,Comedy|Romance,2.7
+2560,Ravenous ,Drama|Horror,3.1
+2561,True Crime ,Crime|Thriller,3.0
+2562,Bandits ,Drama,3.8
+2563,Beauty ,Drama,3.0
+2566,Doug's 1st Movie ,Animation|Children's,2.4
+2567,EDtv ,Comedy,3.2
+2569,Among Giants ,Drama|Romance,3.8
+2572,10 Things I Hate About You ,Comedy|Romance,3.4
+2573,Tango ,Drama,3.4
+2577,Metroland ,Comedy|Drama,3.3
+2579,Following ,Drama,3.8
+2580,Go ,Crime,3.9
+2581,Never Been Kissed ,Comedy|Romance,3.2
+2582,Twin Dragons (Shuang long hui) ,Action|Comedy,3.1
+2584,Foolish ,Comedy,3.0
+2587,Life ,Comedy,3.0
+2588,Clubland ,Drama,0.0
+2589,Friends & Lovers ,Comedy|Drama|Romance,2.7
+2590,Hideous Kinky ,Drama,3.0
+2591,Jeanne and the Perfect Guy (Jeanne et le garçon formidable) ,Comedy|Romance,2.0
+2594,Open Your Eyes (Abre los ojos) ,Drama|Romance|Sci-Fi,4.0
+2595,Photographer (Fotoamator) ,Documentary,0.0
+2596,SLC Punk! ,Comedy|Drama,3.6
+2597,Lost & Found ,Comedy|Romance,2.6
+2598,Pushing Tin ,Comedy,3.0
+2599,Election ,Comedy,3.9
+2600,eXistenZ ,Action|Sci-Fi|Thriller,3.3
+2602,Mighty Peking Man (Hsing hsing wang) ,Adventure|Sci-Fi,2.8
+2603,Nô ,Drama,0.0
+2605,Entrapment ,Crime|Thriller,3.2
+2606,Idle Hands ,Comedy|Horror,2.7
+2607,Get Real ,Drama,4.1
+2608,Heaven ,Thriller,2.6
+2610,Three Seasons ,Drama,3.9
+2612,Mildred Pierce ,Drama,4.1
+2613,Night of the Comet ,Action|Horror|Sci-Fi,3.1
+2614,Chopping Mall (a.k.a. Killbots) ,Action|Horror|Sci-Fi,1.9
+2615,My Science Project ,Adventure|Sci-Fi,3.0
+2616,Dick Tracy ,Action|Crime,2.7
+2619,Mascara ,Drama,3.0
+2620,This Is My Father ,Drama|Romance,3.7
+2623,Trippin' ,Comedy,2.8
+2624,After Life ,Drama,4.1
+2625,Black Mask (Hak hap) ,Action,3.1
+2626,Edge of Seventeen ,Comedy|Drama|Romance,3.6
+2627,Endurance ,Documentary|Drama,3.4
+2630,Besieged (L' Assedio) ,Drama,3.5
+2631,Frogs for Snakes ,Comedy|Film-Noir|Thriller,2.0
+2639,Mommie Dearest ,Drama,3.2
+2640,Superman ,Action|Adventure|Sci-Fi,3.5
+2641,Superman II ,Action|Adventure|Sci-Fi,3.2
+2642,Superman III ,Action|Adventure|Sci-Fi,2.3
+2644,Dracula ,Horror,3.8
+2645,Dracula ,Horror,3.3
+2646,House of Dracula ,Horror,2.9
+2647,House of Frankenstein ,Horror,3.2
+2648,Frankenstein ,Horror,4.0
+2649,Son of Frankenstein ,Horror,3.3
+2651,Frankenstein Meets the Wolf Man ,Horror,3.1
+2653,Son of Dracula ,Horror,2.8
+2656,Tarantula ,Horror|Sci-Fi,2.8
+2659,It Came from Hollywood ,Comedy|Documentary,3.2
+2661,It Came from Outer Space ,Sci-Fi,3.4
+2663,It Came from Beneath the Sea ,Sci-Fi,3.1
+2664,Invasion of the Body Snatchers ,Horror|Sci-Fi,3.9
+2665,Earth Vs. the Flying Saucers ,Sci-Fi,3.4
+2666,It Conquered the World ,Sci-Fi,3.2
+2668,Swamp Thing ,Horror|Sci-Fi,2.5
+2669,Pork Chop Hill ,War,3.7
+2671,Notting Hill ,Comedy|Romance,3.7
+2673,Eternity and a Day (Mia eoniotita ke mia mera ) ,Drama,3.9
+2675,Twice Upon a Yesterday ,Comedy|Drama|Romance,3.4
+2676,Instinct ,Drama|Thriller,3.1
+2677,Buena Vista Social Club ,Documentary,4.1
+2678,Desert Blue ,Drama,3.1
+2679,Finding North ,Drama|Romance,2.6
+2680,Floating ,Drama,0.0
+2681,Free Enterprise ,Comedy|Romance|Sci-Fi,3.6
+2682,Limbo ,Drama,4.1
+2684,Taxman ,Comedy|Drama,0.0
+2687,Tarzan ,Animation|Children's,3.7
+2689,Get Bruce ,Documentary,3.4
+2692,Run Lola Run (Lola rennt) ,Action|Crime|Romance,4.2
+2693,Trekkies ,Documentary,3.9
+2694,Big Daddy ,Comedy,3.1
+2697,My Son the Fanatic ,Comedy|Drama|Romance,3.7
+2698,Zone 39 ,Sci-Fi,0.0
+2699,Arachnophobia ,Action|Comedy|Sci-Fi|Thriller,3.0
+2701,Wild Wild West ,Action|Sci-Fi|Western,2.2
+2702,Summer of Sam ,Drama,3.1
+2703,Broken Vessels ,Drama,3.0
+2706,American Pie ,Comedy,3.7
+2707,Arlington Road ,Thriller,3.5
+2709,Muppets From Space ,Children's|Comedy,3.2
+2711,My Life So Far ,Drama,3.6
+2712,Eyes Wide Shut ,Drama,3.2
+2713,Lake Placid ,Horror|Thriller,2.5
+2716,Ghostbusters ,Comedy|Horror,3.9
+2717,Ghostbusters II ,Comedy|Horror,2.9
+2718,Drop Dead Gorgeous ,Comedy,3.1
+2720,Inspector Gadget ,Action|Adventure|Children's|Comedy,2.2
+2721,Trick ,Romance,3.8
+2722,Deep Blue Sea ,Action|Sci-Fi|Thriller,2.9
+2723,Mystery Men ,Action|Adventure|Comedy,3.0
+2724,Runaway Bride ,Comedy|Romance,3.1
+2725,Twin Falls Idaho ,Drama,3.7
+2727,Killer's Kiss ,Film-Noir,3.5
+2728,Spartacus ,Drama,4.0
+2729,Lolita ,Drama,3.9
+2730,Barry Lyndon ,Drama,3.6
+2732,Jules and Jim (Jules et Jim) ,Drama,4.0
+2733,Vibes ,Adventure|Comedy,2.4
+2736,Brighton Beach Memoirs ,Comedy,3.4
+2737,Assassination ,Action,2.9
+2738,Crimes of the Heart ,Comedy|Drama,3.5
+2741,No Mercy ,Action|Thriller,3.0
+2742,Ménage (Tenue de soirée) ,Comedy|Drama,2.0
+2743,Native Son ,Drama,3.4
+2744,Otello ,Drama,3.7
+2746,Little Shop of Horrors ,Comedy|Horror|Musical,3.3
+2748,Allan Quartermain and the Lost City of Gold ,Action|Adventure,2.1
+2750,Radio Days ,Comedy|Drama,3.7
+2751,From the Hip ,Comedy,2.8
+2752,Outrageous Fortune ,Comedy|Mystery,3.0
+2754,Deadtime Stories ,Horror,1.8
+2755,Light of Day ,Drama,2.7
+2757,Frances ,Drama,3.8
+2758,Plenty ,Drama,2.8
+2759,Dick ,Comedy,3.4
+2767,Illuminata ,Comedy,3.1
+2768,Stiff Upper Lips ,Comedy,3.2
+2770,Bowfinger ,Comedy,3.3
+2771,Brokedown Palace ,Drama,2.9
+2772,Detroit Rock City ,Comedy,3.0
+2773,Alice and Martin (Alice et Martin) ,Drama,2.9
+2774,Better Than Chocolate ,Comedy|Romance,3.5
+2775,Head On ,Drama,3.3
+2777,Cobra ,Drama,2.0
+2778,Never Talk to Strangers ,Thriller,2.6
+2779,Heaven Can Wait ,Comedy,3.6
+2782,Pit and the Pendulum ,Horror,3.5
+2785,Tales of Terror ,Horror,3.0
+2786,Haunted Honeymoon ,Comedy,2.4
+2787,Cat's Eye ,Horror,2.9
+2788,And Now for Something Completely Different ,Comedy,4.1
+2791,Airplane! ,Comedy,4.0
+2794,European Vacation ,Comedy,2.9
+2795,Vacation ,Comedy,3.8
+2796,Funny Farm ,Comedy,3.0
+2797,Big ,Comedy|Fantasy,3.9
+2798,Problem Child ,Comedy,1.9
+2799,Problem Child 2 ,Comedy,1.6
+2800,Little Nemo, adventure|children ,3.0
+2801,Oscar and Lucinda (a.k.a. Oscar & Lucinda) ,Drama|Romance,3.5
+2802,Tequila Sunrise ,Action|Romance|Thriller,3.1
+2805,Mickey Blue Eyes ,Comedy|Romance,2.9
+2806,Teaching Mrs. Tingle ,Comedy|Thriller,2.6
+2808,Universal Soldier ,Action|Sci-Fi,2.5
+2809,Love Stinks ,Comedy,2.5
+2810,Perfect Blue ,Animation|Mystery,3.9
+2811,With Friends Like These... ,Comedy,4.0
+2812,In Too Deep ,Action|Thriller,3.2
+2815,Iron Eagle ,Action|War,2.6
+2816,Iron Eagle II ,Action|War,1.9
+2818,Iron Eagle IV ,Action|War,1.6
+2819,Three Days of the Condor ,Thriller,4.0
+2820,Hamlet ,Drama,3.6
+2821,Male and Female ,Adventure|Drama,2.7
+2822,Medicine Man ,Adventure|Romance,3.0
+2824,On the Ropes ,Documentary,3.9
+2825,Rosie ,Drama,2.8
+2828,Dudley Do-Right ,Children's|Comedy,2.1
+2830,Cabaret Balkan (Bure Baruta) ,Drama,3.5
+2833,Lucie Aubrac ,Romance|War,3.7
+2835,Chill Factor ,Action|Thriller,2.5
+2836,Outside Providence ,Comedy,3.3
+2837,Bedrooms & Hallways ,Comedy|Romance,3.4
+2838,I Woke Up Early the Day I Died ,Comedy,0.0
+2839,West Beirut (West Beyrouth) ,Drama,4.3
+2840,Stigmata ,Thriller,2.9
+2841,Stir of Echoes ,Thriller,3.6
+2842,Best Laid Plans ,Crime|Drama,3.5
+2845,White Boys ,Drama,1.0
+2847,Only Angels Have Wings ,Drama,3.9
+2848,Othello ,Drama,4.0
+2849,Queens Logic ,Comedy|Drama,2.8
+2850,Public Access ,Drama|Thriller,2.7
+2851,Saturn 3 ,Adventure|Sci-Fi|Thriller,2.4
+2854,Don't Look in the Basement! ,Horror,2.4
+2855,Nightmares ,Horror,2.3
+2856,I Saw What You Did ,Thriller,2.8
+2857,Yellow Submarine ,Animation|Musical,3.7
+2858,American Beauty ,Comedy|Drama,4.3
+2859,Stop Making Sense ,Documentary,4.2
+2860,Blue Streak ,Comedy,3.3
+2861,For Love of the Game ,Comedy|Drama,3.2
+2862,Caligula ,Drama,2.6
+2864,Splendor ,Comedy,2.8
+2865,Sugar Town ,Comedy,3.0
+2867,Fright Night ,Comedy|Horror,3.4
+2868,Fright Night Part II ,Horror,2.3
+2870,Barefoot in the Park ,Comedy,3.6
+2871,Deliverance ,Adventure|Thriller,3.9
+2872,Excalibur ,Action|Drama|Fantasy|Romance,3.8
+2873,Lulu on the Bridge ,Drama|Mystery|Romance,2.7
+2875,Sommersby ,Drama|Mystery|Romance,3.3
+2876,Thumbelina ,Animation|Children's,2.7
+2877,Tommy ,Drama|Musical,3.0
+2878,Hell Night ,Horror,2.3
+2893,Plunkett & MaCleane ,Action|Drama,2.9
+2894,Romance ,Drama|Romance,2.6
+2895,Napoleon and Samantha ,Adventure,3.0
+2896,Alvarez Kelly ,Western,3.3
+2897,And the Ship Sails On (E la nave va) ,Comedy|War,3.2
+2899,Gulliver's Travels ,Adventure|Animation|Children's,3.5
+2900,Monkey Shines ,Horror|Sci-Fi,2.7
+2901,Phantasm ,Horror|Sci-Fi,3.2
+2902,Psycho II ,Horror|Thriller,2.4
+2903,Psycho III ,Horror|Thriller,2.1
+2904,Rain ,Drama,3.8
+2905,Sanjuro ,Action|Adventure,4.6
+2906,Random Hearts ,Drama|Romance,2.3
+2907,Superstar ,Comedy,2.4
+2908,Boys Don't Cry ,Drama,4.0
+2914,Molly ,Comedy|Drama,2.2
+2915,Risky Business ,Comedy,3.6
+2916,Total Recall ,Action|Adventure|Sci-Fi|Thriller,3.7
+2917,Body Heat ,Crime|Thriller,4.0
+2918,Ferris Bueller's Day Off ,Comedy,4.1
+2919,Year of Living Dangerously ,Drama|Romance,3.9
+2920,Children of Paradise (Les enfants du paradis) ,Drama|Romance,4.2
+2921,High Plains Drifter ,Western,3.9
+2922,Hang 'em High ,Western,3.7
+2923,Citizen's Band (a.k.a. Handle with Care) ,Comedy,3.4
+2924,Drunken Master (Zui quan) ,Action|Comedy,3.9
+2926,Hairspray ,Comedy|Drama,3.4
+2927,Brief Encounter ,Drama|Romance,4.1
+2929,Reds ,Drama,3.5
+2930,Return with Honor ,Documentary,4.4
+2931,Time of the Gypsies (Dom za vesanje) ,Drama,4.3
+2932,Days of Heaven ,Drama,4.0
+2936,Sullivan's Travels ,Comedy,4.1
+2938,Man Facing Southeast (Hombre Mirando al Sudeste) ,Drama,3.7
+2939,Niagara ,Drama|Thriller,3.5
+2940,Gilda ,Film-Noir,4.0
+2941,South Pacific ,Musical|Romance|War,3.6
+2942,Flashdance ,Drama|Romance,3.1
+2943,Indochine ,Drama|Romance,3.8
+2946,Help! ,Comedy|Musical,3.8
+2947,Goldfinger ,Action,4.0
+2948,From Russia with Love ,Action,3.9
+2949,Dr. No ,Action,3.9
+2954,Penitentiary ,Drama,0.0
+2955,Penitentiary II ,Drama,2.0
+2956,Someone to Watch Over Me ,Action|Crime|Thriller,3.1
+2957,Sparrows ,Drama,0.0
+2958,Naturally Native ,Drama,0.0
+2959,Fight Club ,Drama,4.1
+2960,Beefcake ,Drama,2.8
+2962,Fever Pitch ,Comedy|Romance,3.4
+2963,Joe the King ,Crime|Drama,3.7
+2964,Julien Donkey-Boy ,Drama,3.3
+2968,Time Bandits ,Adventure|Fantasy|Sci-Fi,3.7
+2970,Fitzcarraldo ,Adventure|Drama,4.0
+2971,All That Jazz ,Musical,3.8
+2972,Red Sorghum (Hong Gao Liang) ,Drama|War,4.0
+2973,Crimes and Misdemeanors ,Comedy,4.0
+2974,Bats ,Horror|Thriller,1.8
+2976,Bringing Out the Dead ,Drama|Horror,3.1
+2977,Crazy in Alabama ,Comedy|Drama,2.9
+2978,Three to Tango ,Comedy|Romance,2.8
+2979,Body Shots ,Drama,2.2
+2980,Men Cry Bullets ,Drama,0.0
+2984,On Any Sunday ,Documentary,3.4
+2985,Robocop ,Action|Crime|Sci-Fi,3.5
+2986,Robocop 2 ,Action|Crime|Sci-Fi,2.4
+2987,Who Framed Roger Rabbit? ,Adventure|Animation|Film-Noir,3.7
+2988,Melvin and Howard ,Drama,3.6
+2989,For Your Eyes Only ,Action,3.5
+2990,Licence to Kill ,Action,3.2
+2991,Live and Let Die ,Action,3.6
+2992,Rawhead Rex ,Horror|Thriller,2.5
+2993,Thunderball ,Action,3.7
+2996,Music of the Heart ,Drama,3.4
+2997,Being John Malkovich ,Comedy,4.1
+2998,Dreaming of Joseph Lees ,Romance,3.5
+2999,Man of the Century ,Comedy,4.0
+3002,My Best Fiend (Mein liebster Feind) ,Documentary,3.9
+3003,Train of Life (Train De Vie) ,Comedy|Drama,3.2
+3007,American Movie ,Documentary,4.0
+3008,Last Night ,Thriller,3.7
+3009,Portraits Chinois ,Drama,0.0
+3010,Rosetta ,Drama,3.6
+3012,Battling Butler ,Comedy,3.4
+3013,Bride of Re-Animator ,Comedy|Horror,2.9
+3014,Bustin' Loose ,Comedy,2.9
+3015,Coma ,Thriller,3.4
+3016,Creepshow ,Horror,3.2
+3017,Creepshow 2 ,Horror,2.5
+3018,Re-Animator ,Horror,3.5
+3019,Drugstore Cowboy ,Crime|Drama,3.9
+3020,Falling Down ,Action|Drama,3.5
+3023,My Best Girl ,Comedy|Romance,0.0
+3024,Piranha ,Horror|Sci-Fi,2.3
+3025,Rough Night in Jericho ,Western,3.3
+3026,Slaughterhouse ,Horror,1.5
+3027,Slaughterhouse 2 ,Horror,1.1
+3029,Nighthawks ,Action|Drama,3.3
+3030,Yojimbo ,Comedy|Drama|Western,4.4
+3031,Repossessed ,Comedy,2.2
+3033,Spaceballs ,Comedy|Sci-Fi,3.3
+3034,Robin Hood ,Animation|Children's,3.7
+3035,Mister Roberts ,Comedy|Drama|War,4.1
+3036,Quest for Fire ,Adventure,3.2
+3037,Little Big Man ,Comedy|Drama|Western,4.0
+3039,Trading Places ,Comedy,3.8
+3040,Meatballs ,Comedy,3.3
+3041,Meatballs Part II ,Comedy,1.7
+3042,Meatballs III ,Comedy,1.6
+3043,Meatballs 4 ,Comedy,1.7
+3044,Dead Again ,Mystery|Romance|Thriller,3.9
+3045,Peter's Friends ,Comedy|Drama,3.1
+3047,Experience Preferred... But Not Essential ,Drama,3.6
+3048,Under the Rainbow ,Comedy,2.4
+3049,How I Won the War ,Comedy|War,3.2
+3050,Light It Up ,Drama,3.1
+3051,Anywhere But Here ,Drama,3.0
+3052,Dogma ,Comedy,3.7
+3055,Felicia's Journey ,Thriller,3.4
+3056,Oxygen ,Thriller,3.7
+3057,Where's Marlowe? ,Comedy,4.0
+3059,British Intelligence ,Drama,0.0
+3061,Holiday Inn ,Comedy|Musical,3.9
+3063,Poison Ivy ,Thriller,2.7
+3065,Ten Benny ,Drama,4.0
+3066,Tora! Tora! Tora! ,War,3.7
+3067,Women on the Verge of a Nervous Breakdown ,Comedy|Drama,3.9
+3071,Stand and Deliver ,Drama,3.8
+3072,Moonstruck ,Comedy,3.8
+3074,Jeremiah Johnson ,Western,3.8
+3075,Repulsion ,Thriller,4.0
+3076,Irma la Douce ,Comedy,3.7
+3077,42 Up ,Documentary,4.2
+3078,Liberty Heights ,Drama,3.7
+3079,Mansfield Park ,Drama,3.9
+3081,Sleepy Hollow ,Horror|Romance,3.5
+3083,All About My Mother (Todo Sobre Mi Madre) ,Comedy|Drama,4.1
+3084,Home Page ,Documentary,3.5
+3086,March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) ,Comedy,3.6
+3087,Scrooged ,Comedy,3.5
+3088,Harvey ,Comedy,4.1
+3090,Matewan ,Drama,4.1
+3091,Kagemusha ,Drama|War,4.3
+3092,Chushingura ,Drama,4.0
+3093,McCabe & Mrs. Miller ,Drama|Western,3.7
+3094,Maurice ,Drama|Romance,3.9
+3096,My Man Godfrey ,Comedy,4.0
+3099,Shampoo ,Comedy|Romance,3.2
+3101,Fatal Attraction ,Thriller,3.7
+3102,Jagged Edge ,Thriller,3.6
+3103,Stanley & Iris ,Drama|Romance,3.1
+3104,Midnight Run ,Action|Adventure|Comedy|Crime,3.9
+3105,Awakenings ,Drama,3.8
+3106,Come See the Paradise ,Drama|Romance,3.2
+3107,Backdraft ,Action|Drama,3.4
+3110,Country ,Drama,3.4
+3111,Places in the Heart ,Drama,3.7
+3112,'Night Mother ,Drama,3.4
+3113,End of Days ,Action|Thriller,2.6
+3114,Toy Story 2 ,Animation|Children's|Comedy,4.2
+3115,Flawless ,Drama,3.2
+3116,Miss Julie ,Drama,2.7
+3117,Ride with the Devil ,Drama|Romance|War,3.3
+3118,Tumbleweeds ,Drama,3.5
+3119,Bay of Blood (Reazione a catena) ,Horror,1.7
+3122,Santa Fe Trail ,Drama|Romance|Western,3.4
+3123,Spring Fever USA (a.k.a. Lauderdale) ,Comedy,1.0
+3124,Agnes Browne ,Comedy|Drama,3.3
+3127,Holy Smoke ,Drama,3.2
+3129,Sweet and Lowdown ,Comedy|Drama,3.7
+3130,Bonfire of the Vanities ,Comedy,2.4
+3131,Broadway Damage ,Comedy,3.5
+3132,Daddy Long Legs ,Comedy,3.6
+3133,Go West ,Comedy,3.7
+3138,Stealing Home ,Drama,3.2
+3139,Tarzan the Fearless ,Action|Adventure,3.2
+3143,Hell in the Pacific ,Drama|War,3.7
+3154,Blood on the Sun ,Drama|War,3.5
+3155,Anna and the King ,Drama|Romance,3.4
+3156,Bicentennial Man ,Comedy|Drama|Sci-Fi,2.9
+3157,Stuart Little ,Children's|Comedy,3.1
+3159,Fantasia 2000 ,Animation|Children's|Musical,3.8
+3160,Magnolia ,Drama,3.9
+3161,Onegin ,Drama,3.5
+3162,Simpatico ,Comedy|Drama,2.5
+3163,Topsy-Turvy ,Drama,3.7
+3165,Boiling Point ,Action|Drama,2.6
+3166,Brenda Starr ,Adventure,1.2
+3167,Carnal Knowledge ,Drama,3.6
+3168,Easy Rider ,Adventure|Drama,3.8
+3170,Hi-Yo Silver ,Western,0.0
+3171,Room at the Top ,Drama,3.9
+3172,Ulysses (Ulisse) ,Adventure,5.0
+3173,Any Given Sunday ,Drama,3.1
+3174,Man on the Moon ,Comedy|Drama,3.5
+3175,Galaxy Quest ,Adventure|Comedy|Sci-Fi,3.8
+3177,Next Friday ,Comedy,2.6
+3179,Angela's Ashes ,Drama,3.4
+3180,Play it to the Bone ,Comedy|Drama,2.2
+3181,Titus ,Drama,3.7
+3184,Montana ,Action|Comedy|Crime|Drama,3.0
+3185,Snow Falling on Cedars ,Drama,3.4
+3187,Trans ,Drama,3.0
+3189,My Dog Skip ,Comedy,3.6
+3190,Supernova ,Adventure|Sci-Fi,2.1
+3193,Creature ,Documentary,0.0
+3195,Tess of the Storm Country ,Drama,0.0
+3196,Stalag 17 ,Drama|War,4.2
+3198,Papillon ,Drama,4.1
+3199,Pal Joey ,Comedy|Musical|Romance,3.3
+3201,Five Easy Pieces ,Drama,4.0
+3202,Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) ,Drama,1.0
+3203,Dead Calm ,Thriller,3.7
+3205,Black Sunday (La Maschera Del Demonio) ,Horror,2.2
+3206,Against All Odds ,Romance,3.2
+3208,Loaded Weapon 1 ,Action|Comedy,2.8
+3210,Fast Times at Ridgemont High ,Comedy,3.8
+3212,Born to Win ,Drama,2.5
+3214,American Flyers ,Drama,3.3
+3215,Voyage of the Damned ,Drama,3.2
+3216,Vampyros Lesbos (Las Vampiras) ,Horror,3.3
+3218,Poison ,Drama,3.2
+3219,Pacific Heights ,Thriller,3.3
+3220,Night Tide ,Drama,2.0
+3222,Carmen ,Drama,4.2
+3224,Woman in the Dunes (Suna no onna) ,Drama,4.1
+3225,Down to You ,Comedy|Romance,2.7
+3226,Hellhounds on My Trail ,Documentary,0.0
+3228,Wirey Spindell ,Comedy,1.0
+3229,Another Man's Poison ,Crime|Drama,4.0
+3232,Seven Chances ,Comedy,4.0
+3233,Smashing Time ,Comedy,5.0
+3234,Train Ride to Hollywood ,Comedy,0.0
+3235,Where the Buffalo Roam ,Comedy,3.0
+3236,Zachariah ,Western,3.5
+3237,Kestrel's Eye (Falkens öga) ,Documentary,1.0
+3238,Eye of the Beholder ,Thriller,2.1
+3239,Isn't She Great? ,Comedy,2.4
+3242,Santitos ,Comedy,3.7
+3243,Encino Man ,Comedy,2.5
+3245,I Am Cuba (Soy Cuba/Ya Kuba) ,Drama,4.8
+3246,Malcolm X ,Drama,3.9
+3247,Sister Act ,Comedy|Crime,3.2
+3250,Alive ,Drama,3.4
+3251,Agnes of God ,Drama|Mystery,3.4
+3252,Scent of a Woman ,Drama,3.7
+3253,Wayne's World ,Comedy,3.6
+3254,Wayne's World 2 ,Comedy,2.9
+3256,Patriot Games ,Action|Thriller,3.8
+3258,Death Becomes Her ,Comedy,2.8
+3259,Far and Away ,Drama|Romance,3.4
+3260,Howards End ,Drama,3.7
+3261,Singles ,Comedy|Drama|Romance,3.5
+3263,White Men Can't Jump ,Comedy,3.2
+3264,Buffy the Vampire Slayer ,Comedy|Horror,3.1
+3265,Hard-Boiled (Lashou shentan) ,Action|Crime,4.1
+3266,Man Bites Dog (C'est arrivé près de chez vous) ,Action|Comedy|Crime|Drama,3.7
+3268,Stop! Or My Mom Will Shoot ,Action|Comedy,1.8
+3269,Forever Young ,Adventure|Romance|Sci-Fi,3.2
+3271,Of Mice and Men ,Drama,3.8
+3272,Bad Lieutenant ,Crime|Drama,3.2
+3273,Scream 3 ,Horror|Mystery|Thriller,2.7
+3274,Single White Female ,Action,3.1
+3276,Gun Shy ,Comedy,2.7
+3277,Beloved/Friend (Amigo/Amado) ,Drama,4.0
+3278,Gendernauts ,Documentary,0.0
+3279,Knockout ,Action|Adventure,0.0
+3282,Different for Girls ,Comedy,3.7
+3283,Minnie and Moskowitz ,Action,3.5
+3284,They Might Be Giants ,Comedy|Romance,3.7
+3286,Snow Day ,Comedy,2.2
+3288,Cotton Mary ,Drama,3.0
+3289,Not One Less (Yi ge dou bu neng shao) ,Drama,3.8
+3290,Soft Toilet Seats ,Comedy,3.0
+3291,Trois ,Thriller,2.0
+3293,Conceiving Ada ,Drama|Sci-Fi,3.4
+3294,Eaten Alive ,Horror,2.5
+3295,Raining Stones ,Drama,3.5
+3296,To Sir with Love ,Drama,3.8
+3297,With Byrd at the South Pole ,Documentary,2.0
+3298,Boiler Room ,Drama,3.5
+3299,Hanging Up ,Comedy|Drama,2.3
+3300,Pitch Black ,Action|Sci-Fi,3.3
+3302,Beautiful People ,Comedy,3.3
+3304,Blue Collar ,Crime|Drama,3.6
+3305,Bluebeard ,Film-Noir|Horror,4.0
+3307,City Lights ,Comedy|Drama|Romance,4.4
+3313,Class Reunion ,Comedy,2.2
+3315,Happy Go Lovely ,Musical,2.0
+3316,Reindeer Games ,Action|Thriller,2.8
+3317,Wonder Boys ,Comedy|Drama,3.9
+3318,Deterrence ,Thriller,3.5
+3319,Judy Berlin ,Drama,3.1
+3320,Mifune (Mifunes sidste sang) ,Comedy|Romance,3.5
+3322,3 Strikes ,Comedy,2.8
+3323,Chain of Fools ,Comedy|Crime,3.0
+3324,Drowning Mona ,Comedy,2.8
+3326,What Planet Are You From? ,Comedy|Sci-Fi,2.9
+3327,Beyond the Mat ,Documentary,3.5
+3330,Splendor in the Grass ,Drama,3.8
+3331,My Tutor ,Drama,2.3
+3334,Key Largo ,Crime|Drama|Film-Noir|Thriller,4.1
+3335,Jail Bait ,Crime|Drama,2.7
+3336,It Happened Here ,Drama,3.0
+3337,I'll Never Forget What's 'is Name ,Comedy|Drama,3.5
+3338,For All Mankind ,Documentary,4.4
+3339,Cross of Iron ,War,3.7
+3340,Bride of the Monster ,Horror|Sci-Fi,2.8
+3341,Born Yesterday ,Comedy,4.0
+3342,Birdy ,Drama|War,3.9
+3343,And God Created Woman ,Comedy|Drama|Romance,2.4
+3344,Blood Feast ,Horror,2.6
+3346,Color Me Blood Red ,Horror,2.8
+3347,Never Cry Wolf ,Drama,4.0
+3351,Two Thousand Maniacs! ,Horror,3.3
+3352,Brown's Requiem ,Drama,2.7
+3354,Mission to Mars ,Sci-Fi,2.6
+3356,Condo Painting ,Documentary,0.0
+3357,East-West (Est-ouest) ,Drama|Romance,3.8
+3358,Defending Your Life ,Comedy|Romance,3.7
+3359,Breaking Away ,Drama,4.1
+3360,Hoosiers ,Drama,3.9
+3361,Bull Durham ,Comedy,3.8
+3362,Dog Day Afternoon ,Comedy|Crime|Drama,4.0
+3363,American Graffiti ,Comedy|Drama,4.0
+3366,Where Eagles Dare ,Action|Adventure|War,3.8
+3369,Any Number Can Win (Mélodie en sous-sol ) ,Crime,0.0
+3370,Betrayed ,Drama|Thriller,3.4
+3371,Bound for Glory ,Drama,3.7
+3373,Buck and the Preacher ,Western,2.7
+3374,Daughters of the Dust ,Drama,2.6
+3375,Destination Moon ,Sci-Fi,3.3
+3377,Hangmen Also Die ,Drama|War,3.5
+3379,On the Beach ,Drama,3.9
+3380,Railroaded! ,Film-Noir,3.0
+3381,Slaves to the Underground ,Comedy|Drama,3.5
+3382,Song of Freedom ,Drama,5.0
+3383,Big Fella ,Drama|Musical,0.0
+3385,Volunteers ,Comedy,2.6
+3386,JFK ,Drama|Mystery,3.8
+3387,Who's Harry Crumb? ,Comedy,2.7
+3388,Harry and the Hendersons ,Comedy,2.7
+3389,Let's Get Harry ,Action|Adventure,2.7
+3390,Shanghai Surprise ,Adventure,1.7
+3391,Who's That Girl? ,Comedy,2.3
+3392,She-Devil ,Comedy,1.9
+3393,Date with an Angel ,Comedy|Fantasy,2.1
+3394,Blind Date ,Comedy|Romance,2.7
+3395,Nadine ,Comedy,2.8
+3399,Sesame Street Presents Follow That Bird ,Children's|Comedy,3.1
+3400,We're Back! A Dinosaur's Story ,Animation|Children's,2.5
+3401,Baby... Secret of the Lost Legend ,Adventure|Sci-Fi,2.1
+3402,Turtle Diary ,Drama,3.3
+3403,Raise the Titanic ,Drama|Thriller,2.8
+3404,Titanic ,Action|Drama,3.5
+3406,Captain Horatio Hornblower ,Action|Adventure|War,3.8
+3408,Erin Brockovich ,Drama,3.9
+3409,Final Destination ,Drama|Thriller,3.3
+3410,Soft Fruit ,Comedy|Drama,4.3
+3411,Babymother ,Drama,0.0
+3413,Impact ,Crime|Drama,3.5
+3414,Love Is a Many-Splendored Thing ,Romance,3.3
+3418,Thelma & Louise ,Action|Drama,3.7
+3419,Something for Everyone ,Comedy|Crime,3.2
+3420,...And Justice for All ,Drama|Thriller,3.7
+3421,Animal House ,Comedy,4.1
+3422,She's Gotta Have It ,Comedy|Romance,3.4
+3423,School Daze ,Drama,2.9
+3424,Do the Right Thing ,Comedy|Drama,3.9
+3425,Mo' Better Blues ,Drama,3.3
+3426,Jungle Fever ,Drama|Romance,3.2
+3427,Coogan's Bluff ,Crime,3.3
+3429,Creature Comforts ,Animation|Comedy,4.3
+3430,Death Wish ,Action|Drama,3.3
+3431,Death Wish II ,Action|Drama,2.7
+3432,Death Wish 3 ,Action|Drama,2.3
+3435,Double Indemnity ,Crime|Film-Noir,4.4
+3436,Dying Young ,Drama|Romance,2.8
+3437,Cool as Ice ,Drama,2.0
+3438,Teenage Mutant Ninja Turtles ,Action|Children's|Fantasy,2.7
+3440,Teenage Mutant Ninja Turtles III ,Action|Children's|Fantasy,1.9
+3441,Red Dawn ,Action|War,3.3
+3442,Band of the Hand ,Action,2.3
+3443,Born American ,Action|Drama|Thriller,3.8
+3444,Bloodsport ,Action,3.2
+3445,Eyes of Laura Mars ,Mystery|Thriller,3.2
+3446,Funny Bones ,Comedy,3.4
+3450,Grumpy Old Men ,Comedy,3.4
+3451,Guess Who's Coming to Dinner ,Comedy|Drama,3.9
+3452,Romeo Must Die ,Action|Romance,3.1
+3453,Here on Earth ,Drama|Romance,2.5
+3454,Whatever It Takes ,Comedy|Romance,2.7
+3455,Buddy Boy ,Drama|Thriller,0.0
+3457,Waking the Dead ,Drama,3.0
+3458,Blood and Sand (Sangre y Arena) ,Drama|Romance,3.0
+3459,Gothic ,Drama|Horror,2.8
+3460,Hillbillys in a Haunted House ,Comedy,1.0
+3461,Lord of the Flies ,Adventure|Drama|Thriller,3.7
+3462,Modern Times ,Comedy,4.2
+3463,Last Resort ,Comedy,1.8
+3464,Solar Crisis ,Sci-Fi|Thriller,2.5
+3465,That's Life! ,Drama,2.8
+3466,Heart and Souls ,Comedy|Fantasy,3.5
+3467,Hud ,Drama|Western,4.0
+3469,Inherit the Wind ,Drama,4.3
+3470,Dersu Uzala ,Adventure|Drama,4.3
+3471,Close Encounters of the Third Kind ,Drama|Sci-Fi,4.0
+3472,Horror Hotel (a.k.a. The City of the Dead) ,Horror,1.8
+3473,Jonah Who Will Be 25 in the Year 2000 ,Comedy,3.4
+3474,Retroactive ,Sci-Fi|Thriller,3.2
+3476,Jacob's Ladder ,Horror|Mystery|Thriller,3.6
+3477,Empire Records ,Comedy|Drama,3.0
+3479,Ladyhawke ,Adventure|Fantasy|Romance,3.7
+3480,Lucas ,Drama,3.6
+3481,High Fidelity ,Comedy,3.9
+3482,Price of Glory ,Drama,3.0
+3485,Autopsy (Macchie Solari) ,Horror,1.5
+3486,Devil Girl From Mars ,Sci-Fi,3.1
+3489,Hook ,Adventure|Fantasy,3.0
+3490,Horror Express ,Horror,2.6
+3491,My Chauffeur ,Comedy,2.9
+3493,Torso (Corpi Presentano Tracce di Violenza Carnale) ,Horror,1.0
+3494,True Grit ,Adventure|Western,3.7
+3495,Roadside Prophets ,Comedy|Drama,3.8
+3496,Madame Sousatzka ,Drama,3.2
+3497,Max Dugan Returns ,Comedy,3.1
+3498,Midnight Express ,Drama,4.0
+3499,Misery ,Horror,3.8
+3500,Mr. Saturday Night ,Comedy|Drama,2.7
+3501,Murphy's Romance ,Comedy|Romance,3.5
+3502,My Life ,Drama,3.5
+3503,Solaris (Solyaris) ,Drama|Sci-Fi,3.5
+3504,Network ,Comedy|Drama,4.0
+3505,No Way Out ,Thriller,3.9
+3506,North Dallas Forty ,Comedy|Drama,3.4
+3509,Black and White ,Drama,2.8
+3510,Frequency ,Drama|Thriller,3.8
+3511,Ready to Rumble ,Comedy,2.6
+3512,Return to Me ,Drama|Romance,3.7
+3513,Rules of Engagement ,Drama|Thriller,3.3
+3514,Joe Gould's Secret ,Drama,3.2
+3515,Me Myself I ,Comedy,3.2
+3519,Force 10 from Navarone ,Action|War,3.3
+3520,How to Stuff a Wild Bikini ,Comedy,2.6
+3521,Mystery Train ,Comedy|Crime|Drama,3.9
+3522,Sacco and Vanzetti (Sacco e Vanzetti) ,Drama,4.0
+3523,Taffin ,Action|Thriller,3.1
+3524,Arthur ,Comedy|Romance,3.4
+3525,Bachelor Party ,Comedy,3.1
+3526,Parenthood ,Comedy|Drama,3.8
+3527,Predator ,Action|Sci-Fi|Thriller,3.7
+3530,Smoking/No Smoking ,Comedy,4.0
+3531,All the Vermeers in New York ,Comedy|Drama|Romance,3.0
+3532,Freedom for Us (À nous la liberté ) ,Comedy,3.8
+3534,28 Days ,Comedy,3.1
+3535,American Psycho ,Comedy|Horror|Thriller,3.2
+3536,Keeping the Faith ,Comedy|Romance,3.7
+3537,Where the Money Is ,Comedy|Drama,3.3
+3538,East is East ,Comedy,3.7
+3540,Passion of Mind ,Romance|Thriller,2.8
+3541,Third World Cop ,Action,0.0
+3542,Coming Apart ,Drama,3.0
+3543,Diner ,Comedy|Drama,3.9
+3544,Shakes the Clown ,Comedy,2.9
+3545,Cabaret ,Musical|War,3.9
+3546,What Ever Happened to Baby Jane? ,Drama|Thriller,3.7
+3547,Prick Up Your Ears ,Drama,3.8
+3548,Auntie Mame ,Comedy|Drama,3.8
+3549,Guys and Dolls ,Musical,3.8
+3551,Marathon Man ,Thriller,3.9
+3552,Caddyshack ,Comedy,3.8
+3553,Gossip ,Drama|Thriller,2.8
+3554,Love and Basketball ,Drama|Romance,3.5
+3555,U-571 ,Action|Thriller,3.5
+3557,Jennifer 8 ,Thriller,2.9
+3559,Limelight ,Drama,3.7
+3560,Phantom Love (Ai No Borei) ,Drama,0.0
+3561,Stacy's Knights ,Drama,0.0
+3562,Committed ,Comedy|Drama,3.0
+3565,Where the Heart Is ,Comedy|Drama,3.3
+3567,Bossa Nova ,Comedy,3.4
+3568,Smiling Fish and Goat on Fire ,Drama,3.3
+3571,Time Code ,Drama,3.4
+3572,Carnosaur ,Horror|Sci-Fi,1.7
+3573,Carnosaur 2 ,Horror|Sci-Fi,1.5
+3575,Defying Gravity ,Drama,3.3
+3577,Two Moon Juction ,Drama,2.6
+3578,Gladiator ,Action|Drama,4.1
+3579,I Dreamed of Africa ,Drama,2.5
+3580,Up at the Villa ,Drama,3.1
+3581,Human Traffic ,Drama,2.8
+3583,Black Tights (Les Collants Noirs) ,Drama,0.0
+3584,Breathless ,Action|Drama|Romance|Thriller,2.8
+3587,Inferno ,Horror,3.0
+3591,Mr. Mom ,Comedy|Drama,3.4
+3592,Time Masters (Les Maîtres du Temps) ,Animation|Sci-Fi,2.5
+3593,Battlefield Earth ,Action|Sci-Fi,1.6
+3594,Center Stage ,Drama,3.3
+3595,Held Up ,Comedy,3.0
+3596,Screwed ,Comedy,2.5
+3597,Whipped ,Comedy,2.7
+3598,Hamlet ,Drama,3.5
+3599,Anchors Aweigh ,Comedy|Musical,3.6
+3600,Blue Hawaii ,Comedy|Musical,2.8
+3602,G. I. Blues ,Musical,3.0
+3604,Gypsy ,Musical,3.7
+3605,King Creole ,Drama|Musical,3.1
+3606,On the Town ,Musical,3.9
+3607,One Little Indian ,Comedy|Drama|Western,5.0
+3608,Pee-wee's Big Adventure ,Comedy,3.4
+3609,Regret to Inform ,Documentary,4.0
+3610,Roustabout ,Musical,2.5
+3611,Saludos Amigos ,Animation|Children's|Comedy,3.1
+3613,Things Change ,Comedy,3.8
+3614,Honeymoon in Vegas ,Comedy|Romance,3.2
+3615,Dinosaur ,Animation|Children's,3.2
+3616,Loser ,Comedy|Romance,2.5
+3617,Road Trip ,Comedy,3.3
+3618,Small Time Crooks ,Comedy,3.4
+3621,Possession ,Drama|Horror,1.7
+3624,Shanghai Noon ,Action,3.7
+3625,Better Living Through Circuitry ,Documentary,3.8
+3626,8 1/2 Women ,Comedy,2.5
+3627,Carnival of Souls ,Horror|Thriller,3.5
+3628,Flying Tigers ,Action|Drama|War,3.4
+3631,It's in the Water ,Comedy,2.7
+3632,Monsieur Verdoux ,Comedy,3.6
+3633,On Her Majesty's Secret Service ,Action,3.5
+3634,Seven Days in May ,Thriller,4.3
+3636,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train) ,Drama,2.8
+3637,Vagabond (Sans toit ni loi) ,Drama,4.0
+3638,Moonraker ,Action|Romance|Sci-Fi,3.2
+3642,In Old California ,Western,3.1
+3644,Dark Command ,Western,3.4
+3645,Cleo From 5 to 7 (Cléo de 5 à 7) ,Drama,3.6
+3646,Big Momma's House ,Comedy,2.4
+3647,Running Free ,Drama,4.0
+3649,American Gigolo ,Drama,3.2
+3650,Anguish (Angustia) ,Horror,0.0
+3652,City of the Living Dead (Paura nella città dei morti viventi) ,Horror,3.0
+3655,Blow-Out (La Grande Bouffe) ,Drama,3.8
+3656,Lured ,Crime,5.0
+3657,Pandora and the Flying Dutchman ,Drama,3.7
+3658,Quatermass and the Pit ,Sci-Fi,3.7
+3659,Quatermass II ,Sci-Fi|Thriller,3.2
+3660,Puppet Master ,Horror|Sci-Fi|Thriller,2.9
+3661,Puppet Master II ,Horror|Sci-Fi|Thriller,2.2
+3663,Puppet Master 4 ,Horror|Sci-Fi|Thriller,1.9
+3665,Curse of the Puppet Master ,Horror|Sci-Fi|Thriller,1.7
+3666,Retro Puppetmaster ,Horror|Sci-Fi|Thriller,1.7
+3667,Rent-A-Cop ,Action|Comedy,1.9
+3668,Romeo and Juliet ,Drama|Romance,3.9
+3669,Stay Tuned ,Comedy,2.4
+3671,Blazing Saddles ,Comedy|Western,4.0
+3672,Benji ,Adventure|Children's,3.0
+3673,Benji the Hunted ,Adventure|Children's,2.3
+3674,For the Love of Benji ,Adventure|Children's,2.6
+3675,White Christmas ,Musical,3.8
+3676,Eraserhead ,Drama|Horror,3.5
+3677,Baraka ,Documentary,3.9
+3681,For a Few Dollars More ,Western,3.9
+3682,Magnum Force ,Western,3.7
+3683,Blood Simple ,Drama|Film-Noir,4.2
+3685,Prizzi's Honor ,Comedy|Drama|Romance,3.6
+3686,Flatliners ,Thriller,3.3
+3687,Light Years ,Sci-Fi,2.0
+3688,Porky's ,Comedy,2.7
+3690,Porky's Revenge ,Comedy,2.0
+3691,Private School ,Comedy,2.6
+3692,Class of Nuke 'Em High ,Comedy|Horror,2.3
+3696,Night of the Creeps ,Comedy|Horror|Sci-Fi,2.6
+3697,Predator 2 ,Action|Sci-Fi|Thriller,2.9
+3699,Starman ,Adventure|Drama|Romance|Sci-Fi,3.5
+3701,Alien Nation ,Crime|Drama|Sci-Fi,3.2
+3702,Mad Max ,Action|Sci-Fi,3.7
+3703,Mad Max 2 (a.k.a. The Road Warrior) ,Action|Sci-Fi,3.7
+3704,Mad Max Beyond Thunderdome ,Action|Sci-Fi,3.2
+3705,Bird on a Wire ,Action|Adventure|Romance|Thriller,2.6
+3706,Angel Heart ,Film-Noir|Mystery|Thriller,3.4
+3707,Nine 1/2 Weeks ,Drama,3.1
+3708,Firestarter ,Horror|Thriller,3.0
+3709,Sleepwalkers ,Horror,2.4
+3710,Action Jackson ,Action|Comedy,2.3
+3711,Sarafina! ,Drama,3.2
+3712,Soapdish ,Comedy,3.2
+3714,Clara's Heart ,Drama,3.1
+3715,Burglar ,Comedy,2.5
+3716,Fatal Beauty ,Action|Crime,2.4
+3717,Gone in 60 Seconds ,Action|Crime,3.0
+3718,American Pimp ,Documentary,3.3
+3719,Love's Labour's Lost ,Comedy|Romance,3.0
+3720,Sunshine ,Drama,3.7
+3721,Trixie ,Comedy,2.6
+3722,Live Virgin ,Comedy,2.0
+3723,Hamlet ,Drama,3.7
+3724,Coming Home ,Drama|War,3.7
+3725,American Pop ,Animation|Musical,3.1
+3726,Assault on Precinct 13 ,Action|Thriller,3.6
+3727,Near Dark ,Comedy|Horror,3.7
+3728,One False Move ,Thriller,4.0
+3729,Shaft ,Action|Crime,3.4
+3731,Cutter's Way ,Drama|Thriller,3.4
+3734,Prince of the City ,Drama,3.5
+3735,Serpico ,Crime|Drama,4.0
+3737,Lonely Are the Brave ,Drama|Western,4.0
+3739,Trouble in Paradise ,Comedy|Romance,4.0
+3740,Big Trouble in Little China ,Action|Comedy,3.4
+3741,Badlands ,Crime|Drama,4.1
+3743,Boys and Girls ,Comedy|Romance,2.6
+3744,Shaft ,Action|Crime,3.2
+3745,Titan A.E. ,Adventure|Animation|Sci-Fi,3.4
+3746,Butterfly (La Lengua de las Mariposas) ,Drama|War,3.9
+3747,Jesus' Son ,Drama,3.8
+3749,Time Regained (Le Temps Retrouvé) ,Drama,3.1
+3750,Boricua's Bond ,Drama,0.0
+3751,Chicken Run ,Animation|Children's|Comedy,3.9
+3757,Asylum ,Horror,2.8
+3758,Communion ,Drama|Sci-Fi|Thriller,2.8
+3759,Fun and Fancy Free ,Animation|Children's|Musical,3.3
+3762,Daughter of Dr. Jeckyll ,Horror,1.3
+3763,F/X ,Action|Crime|Thriller,3.6
+3764,F/X 2 ,Action|Crime|Thriller,2.6
+3766,Missing in Action ,Action|War,2.5
+3767,Missing in Action 2, Action|War,2.1
+3768, Missing in Action III ,Action|War,2.2
+3769,Thunderbolt and Lightfoot ,Action,3.4
+3770,Dreamscape ,Adventure|Crime|Sci-Fi|Thriller,3.5
+3772,Hatchet For the Honeymoon (Rosso Segno Della Follia) ,Horror,1.7
+3773,House Party ,Comedy,2.8
+3774,House Party 2 ,Comedy,2.0
+3775,Make Mine Music ,Animation|Children's|Musical,3.2
+3776,Melody Time ,Animation|Children's|Musical,3.3
+3777,Nekromantik ,Comedy|Horror,2.2
+3778,On Our Merry Way ,Comedy|Drama,2.8
+3779,Project Moon Base ,Sci-Fi,3.0
+3780,Rocketship X-M ,Sci-Fi,3.1
+3781,Shaft in Africa ,Action|Crime,2.6
+3782,Shaft's Big Score! ,Action|Crime,2.7
+3783,Croupier ,Crime|Drama,4.0
+3785,Scary Movie ,Comedy|Horror,3.0
+3786,But I'm a Cheerleader ,Comedy,3.2
+3787,Shower (Xizhao) ,Comedy,3.9
+3788,Blowup ,Drama|Mystery,3.8
+3790,Groove ,Drama,3.4
+3791,Footloose ,Drama,3.1
+3792,Duel in the Sun ,Western,3.6
+3793,X-Men ,Action|Sci-Fi,3.8
+3794,Chuck & Buck ,Comedy|Drama,3.3
+3798,What Lies Beneath ,Thriller,3.3
+3799,Pokémon the Movie 2000 ,Animation|Children's,1.6
+3800,Criminal Lovers (Les Amants Criminels) ,Drama|Romance,2.3
+3801,Anatomy of a Murder ,Drama|Mystery,4.2
+3802,Freejack ,Action|Sci-Fi,2.4
+3803,Greaser's Palace ,Drama,3.6
+3804,H.O.T.S. ,Comedy,2.5
+3805,Knightriders ,Action|Adventure|Drama,2.8
+3806,MacKenna's Gold ,Western,3.3
+3807,Sinbad and the Eye of the Tiger ,Action|Adventure,3.3
+3808,Two Women (La Ciociara) ,Drama|War,4.0
+3809,What About Bob? ,Comedy,3.4
+3810,White Sands ,Drama|Thriller,3.1
+3811,Breaker Morant ,Drama|War,4.1
+3812,Everything You Always Wanted to Know About Sex ,Comedy,3.6
+3813,Interiors ,Drama,3.3
+3814,Love and Death ,Comedy,4.0
+3818,Pot O' Gold ,Comedy|Musical,2.4
+3819,Tampopo ,Comedy,4.0
+3820,Thomas and the Magic Railroad ,Children's,1.8
+3823,Wonderland ,Drama,3.6
+3824,Autumn in New York ,Drama|Romance,2.1
+3825,Coyote Ugly ,Drama,2.8
+3826,Hollow Man ,Horror|Sci-Fi|Thriller,2.5
+3827,Space Cowboys ,Action|Sci-Fi,3.4
+3828,Better Living ,Comedy,2.5
+3829,Mad About Mambo ,Comedy|Romance,0.0
+3830,Psycho Beach Party ,Comedy|Horror|Thriller,2.9
+3831,Saving Grace ,Comedy,3.7
+3834,Bronco Billy ,Adventure|Drama|Romance,2.8
+3836,Kelly's Heroes ,Action|Comedy|War,3.9
+3837,Phantasm II ,Horror,2.9
+3840,Pumpkinhead ,Horror,2.5
+3841,Air America ,Action|Comedy,2.8
+3842,Make Them Die Slowly (Cannibal Ferox) ,Horror,3.0
+3843,Sleepaway Camp ,Horror,2.6
+3844,Steel Magnolias ,Drama,3.6
+3846,Easy Money ,Comedy,3.1
+3848,Silent Fall ,Drama|Thriller,3.1
+3850,Whatever Happened to Aunt Alice? ,Crime|Thriller,2.9
+3851,I'm the One That I Want ,Comedy,4.0
+3854,Aimée & Jaguar ,Drama|Romance,3.6
+3856,Autumn Heart ,Drama,0.0
+3857,Bless the Child ,Thriller,2.7
+3858,Cecil B. Demented ,Comedy,3.2
+3862,About Adam ,Comedy,3.1
+3864,Godzilla 2000 (Gojira ni-sen mireniamu) ,Action|Adventure|Sci-Fi,2.7
+3866,Sunset Strip ,Comedy,3.2
+3867,All the Rage (a.k.a. It's the Rage) ,Drama,3.3
+3870,Our Town ,Drama,3.9
+3871,Shane ,Drama|Western,3.8
+3873,Cat Ballou ,Comedy|Western,3.7
+3876,Jerry & Tom ,Drama,2.0
+3877,Supergirl ,Action|Adventure|Fantasy,2.0
+3881,Bittersweet Motel ,Documentary,5.0
+3882,Bring It On ,Comedy,3.3
+3883,Catfish in Black Bean Sauce ,Comedy|Drama,2.7
+3885,Love & Sex ,Comedy|Romance,3.1
+3886,Steal This Movie! ,Drama,3.0
+3887,Went to Coney Island on a Mission From God... Be Back by Five ,Drama,3.0
+3888,Skipped Parts ,Drama|Romance,4.5
+3890,Back Stage ,Documentary,3.0
+3891,Turn It Up ,Crime|Drama,1.7
+3892,Anatomy (Anatomie) ,Horror,2.7
+3893,Nurse Betty ,Comedy|Thriller,3.5
+3894,Solas ,Drama,3.2
+3897,Almost Famous ,Comedy|Drama,4.2
+3898,Bait ,Action|Comedy,2.7
+3899,Circus ,Comedy,1.7
+3900,Crime and Punishment in Suburbia ,Comedy|Drama,2.8
+3901,Duets ,Comedy|Drama,2.7
+3902,Goya in Bordeaux (Goya en Bodeos) ,Drama,3.1
+3903,Urbania ,Drama,3.5
+3906,Under Suspicion ,Crime,3.2
+3909,Woman on Top ,Comedy|Romance,2.7
+3910,Dancer in the Dark ,Drama|Musical,3.8
+3911,Best in Show ,Comedy,4.1
+3912,Beautiful ,Comedy|Drama,2.3
+3913,Barenaked in America ,Documentary,2.9
+3915,Girlfight ,Drama,3.5
+3916,Remember the Titans ,Drama,3.9
+3917,Hellraiser ,Horror,3.1
+3921,Beach Party ,Comedy,2.6
+3922,Bikini Beach ,Comedy,2.6
+3923,Return of the Fly ,Horror|Sci-Fi,2.6
+3924,Pajama Party ,Comedy,2.9
+3925,Stranger Than Paradise ,Comedy,3.9
+3926,Voyage to the Bottom of the Sea ,Adventure|Sci-Fi,3.4
+3927,Fantastic Voyage ,Adventure|Sci-Fi,3.6
+3928,Abbott and Costello Meet Frankenstein ,Comedy|Horror,3.4
+3934,Kronos ,Sci-Fi,3.0
+3935,Kronos ,Horror,3.0
+3937,Runaway ,Sci-Fi|Thriller,2.9
+3941,Sorority House Massacre ,Horror,2.0
+3942,Sorority House Massacre II ,Horror,1.8
+3943,Bamboozled ,Comedy,3.1
+3944,Bootmen ,Comedy|Drama,2.1
+3946,Get Carter ,Action|Drama|Thriller,2.3
+3947,Get Carter ,Thriller,3.5
+3948,Meet the Parents ,Comedy,3.6
+3949,Requiem for a Dream ,Drama,4.1
+3950,Tigerland ,Drama,3.7
+3951,Two Family House ,Drama,3.9
+2879,Operation Condor (Feiying gaiwak) ,Action|Adventure|Comedy,3.5
+2880,Operation Condor 2 (Longxiong hudi) ,Action|Adventure|Comedy,3.5
+2881,Double Jeopardy ,Action|Thriller,3.2
+2882,Jakob the Liar ,Drama,2.8
+2883,Mumford ,Comedy,3.5
+2884,Dog Park ,Comedy|Romance,2.6
+2885,Guinevere ,Drama|Romance,3.4
+2887,Simon Sez ,Drama,2.2
+2888,Drive Me Crazy ,Comedy|Romance,2.8
+2890,Three Kings ,Drama|War,3.8
+2892,New Rose Hotel ,Action|Drama,2.5
